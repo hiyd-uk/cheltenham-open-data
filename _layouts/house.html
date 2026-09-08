@@ -6,9 +6,10 @@
             <h1>{{page.title}}</h1>
             <p>{{page.description}}</p>
             <ul>
-                {% if page.feed_url %}
-                <li><a href="{{ page.feed_url}}">Subscribe via our feed/rss →</a></li>
-                {% endif %}
+                <li><a href="/cheltenham-house-prices">&larr; Back to summary & charts</a></li>
+                {% for y in page.available-years %}
+                <li><a href="/cheltenham-house-prices-{{ y }}/">{{ y }} &rarr;</a></li>
+                {% endfor %}
             </ul>
         </header>
 
@@ -16,9 +17,9 @@
 
 
         {{ content }}
-        <div class="scroll">
 
-            <div class="land-registry-widget">
+
+            <div class="land-registry-widget scroll">
 
                 <h2>Median Sale Price by Month</h2>
                 <canvas id="land-registry-chart" height="120"></canvas>
@@ -34,64 +35,44 @@
 
                 <h2>Recent Sales</h2>
 
-                <table id="land-registry-table" class="land-registry-table" data-sortable>
-                    <thead>
-                        <tr>
-                            <th>Date</th>
-                            <th>Address</th>
-                            <th class="postcode">Postcode</th>
-                            <th>Type</th>
-                            <th class="number">Price</th>
-                        </tr>
-                    </thead>
-                    <tbody>
-                        {% for transaction in site.data["cheltenham-house-prices"].transactions %}
-                        {% if transaction.amount %}
-                        <tr>
-                            <td class="date" data-value="{{ transaction.date }}">{{ transaction.date }}</td>
-                            <td>{{ transaction.saon }} {{ transaction.paon }} {{ transaction.street }}</td>
-                            <td class="postcode">{{ transaction.postcode }}</td>
-                            <td>{{ transaction.property_type | default: "Other" }}</td>
-                            <td class="number" data-value="{{ transaction.amount }}">{{ transaction.display_amount }}
-                            </td>
-                        </tr>
-                        {% endif %}
-                        {% endfor %}
-                    </tbody>
-                </table>
-
+                <ul>
+                    {% for y in page.available-years %}
+                    <li><a href="/cheltenham-house-prices-{{ y }}/">View {{ y }} Sales &rarr;</a></li>
+                    {% endfor %}
+                </ul>
             </div>
-            <p class="land-registry-attribution"><small>Contains HM Land Registry data © Crown copyright and
-                    database
-                    right. Licensed under the <a
-                        href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">Open
-                        Government
-                        Licence v3.0</a>.</small></p>
 
-            <h2>Annual House Price Changes in Cheltenham</h2>
+        <p class="land-registry-attribution"><small>Contains HM Land Registry data © Crown copyright and
+                database
+                right. Licensed under the <a
+                    href="http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/">Open
+                    Government
+                    Licence v3.0</a>.</small></p>
 
-            <div id="chart-timeseries"></div>
-            <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js"></script>
-            <script>var pymParent = new pym.Parent("chart-timeseries", "https://www.ons.gov.uk/visualisations/housingpriceslocal/embed/?area=E07000078&chart=chart-timeseries", { name: "chart-timeseries", title: "Embedded chart" });</script>
+        <h2>Annual House Price Changes in Cheltenham</h2>
 
-            <h2>First-Time Buyers in Cheltenham</h2>
+        <div id="chart-timeseries"></div>
+        <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js"></script>
+        <script>var pymParent = new pym.Parent("chart-timeseries", "https://www.ons.gov.uk/visualisations/housingpriceslocal/embed/?area=E07000078&chart=chart-timeseries", { name: "chart-timeseries", title: "Embedded chart" });</script>
 
-            <div id="chart-ftb-static"></div>
-            <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js"></script>
-            <script>var pymParent = new pym.Parent("chart-ftb-static", "https://www.ons.gov.uk/visualisations/housingpriceslocal/embed/?area=E07000078&chart=chart-ftb-static", { name: "chart-ftb-static", title: "Embedded chart" });</script>
+        <h2>First-Time Buyers in Cheltenham</h2>
 
-            <h2>House Prices When Buying with Cash or Mortgage in Cheltenham</h2>
+        <div id="chart-ftb-static"></div>
+        <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js"></script>
+        <script>var pymParent = new pym.Parent("chart-ftb-static", "https://www.ons.gov.uk/visualisations/housingpriceslocal/embed/?area=E07000078&chart=chart-ftb-static", { name: "chart-ftb-static", title: "Embedded chart" });</script>
 
-            <div id="chart-mortgagecash"></div>
-            <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js"></script>
-            <script>var pymParent = new pym.Parent("chart-mortgagecash", "https://www.ons.gov.uk/visualisations/housingpriceslocal/embed/?area=E07000078&chart=chart-mortgagecash", { name: "chart-mortgagecash", title: "Embedded chart" });</script>
+        <h2>House Prices When Buying with Cash or Mortgage in Cheltenham</h2>
+
+        <div id="chart-mortgagecash"></div>
+        <script src="https://cdn.ons.gov.uk/vendor/pym/1.3.2/pym.min.js"></script>
+        <script>var pymParent = new pym.Parent("chart-mortgagecash", "https://www.ons.gov.uk/visualisations/housingpriceslocal/embed/?area=E07000078&chart=chart-mortgagecash", { name: "chart-mortgagecash", title: "Embedded chart" });</script>
 
 
-        </div>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
-        <script id="house-price-data"
-            type="application/json">{{ site.data["cheltenham-house-prices"].transactions | jsonify }}</script>
-        <script src="/scripts/house-price-charts.js"></script>
     </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.0/chart.umd.min.js"></script>
+    <script id="house-price-data"
+        type="application/json">{{ site.data["cheltenham-house-prices"].transactions | jsonify }}</script>
+    <script src="/scripts/house-price-charts.js"></script>
+</div>
 
-    {% include footer.html %}
+{% include footer.html %}
