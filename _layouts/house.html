@@ -8,7 +8,7 @@
             <ul>
                 <li><a href="/cheltenham-house-prices">&larr; Back to summary & charts</a></li>
                 {% for y in page.available-years %}
-                <li><a href="/cheltenham-house-prices-{{ y }}/">{{ y }} &rarr;</a></li>
+                <li><a href="/cheltenham-house-prices-{{ y }}">{{ y }} &rarr;</a></li>
                 {% endfor %}
             </ul>
         </header>
@@ -19,28 +19,28 @@
         {{ content }}
 
 
-            <div class="land-registry-widget scroll">
+        <div class="land-registry-widget scroll">
 
-                <h2>Median Sale Price by Month</h2>
-                <canvas id="land-registry-chart" height="120"></canvas>
+            <h2>Median Sale Price by Month</h2>
+            <canvas id="land-registry-chart" height="120"></canvas>
 
-                <h2>Sales Volume by Month</h2>
-                <canvas id="land-registry-volume-chart" height="120"></canvas>
+            <h2>Sales Volume by Month</h2>
+            <canvas id="land-registry-volume-chart" height="120"></canvas>
 
-                <h2>Median Price by Property Type</h2>
-                <canvas id="land-registry-type-chart" height="120"></canvas>
+            <h2>Median Price by Property Type</h2>
+            <canvas id="land-registry-type-chart" height="120"></canvas>
 
-                <h2>Price Distribution</h2>
-                <canvas id="land-registry-histogram" height="120"></canvas>
+            <h2>Price Distribution</h2>
+            <canvas id="land-registry-histogram" height="120"></canvas>
 
-                <h2>Recent Sales</h2>
+            <h2>Recent Sales</h2>
 
-                <ul>
-                    {% for y in page.available-years %}
-                    <li><a href="/cheltenham-house-prices-{{ y }}/">View {{ y }} Sales &rarr;</a></li>
-                    {% endfor %}
-                </ul>
-            </div>
+            <ul>
+                {% for y in page.available-years %}
+                <li><a href="/cheltenham-house-prices-{{ y }}/">View {{ y }} Sales &rarr;</a></li>
+                {% endfor %}
+            </ul>
+        </div>
 
         <p class="land-registry-attribution"><small>Contains HM Land Registry data © Crown copyright and
                 database
