@@ -9,14 +9,14 @@ description: "The open data hub for Cheltenham and Gloucestershire. Fuel prices,
 ---
 
 <!-- weather_marker starts -->
-## On Tuesday, 08 September 2026
+## On Wednesday, 09 September 2026
 
-- The average temperature today is 15.2˚C,
-- With highs of 18.7˚C and lows of 11.3˚C,
-- It may feel like 15.2˚C with moderate rain
-- The wind speed is 8.4m/s
-- The pressure is 1008.08hPa and humidity is 70%
-- The sun will rise at 06:31 and set at 19:41
+- The average temperature today is 16.9˚C,
+- With highs of 18.8˚C and lows of 9.8˚C,
+- It may feel like 16.9˚C with overcast clouds
+- The wind speed is 5.1m/s
+- The pressure is 1018.23hPa and humidity is 47%
+- The sun will rise at 06:33 and set at 19:38
 
 <!-- weather_marker ends -->
 - [See a full 10-day Cheltenham forecast &rarr;](/cheltenham-10-day-weather-forecast)

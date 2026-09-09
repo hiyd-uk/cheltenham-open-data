@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T18:37:08.215233+00:00",
+  "generated_at": "2026-09-09T00:32:16.538062+00:00",
   "months_fetched": 48,
   "transactions": [
     {
@@ -1067,7 +1067,7 @@
       "amount": 340000,
       "display_amount": "\u00a3340,000",
       "date": "2026-06-26",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -1235,7 +1235,7 @@
       "amount": 1015000,
       "display_amount": "\u00a31,015,000",
       "date": "2026-06-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -1439,7 +1439,7 @@
       "amount": 440000,
       "display_amount": "\u00a3440,000",
       "date": "2026-06-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -1775,7 +1775,7 @@
       "amount": 120000,
       "display_amount": "\u00a3120,000",
       "date": "2026-06-15",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -2975,7 +2975,7 @@
       "amount": 1000000,
       "display_amount": "\u00a31,000,000",
       "date": "2026-05-27",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -5075,7 +5075,7 @@
       "amount": 190000,
       "display_amount": "\u00a3190,000",
       "date": "2026-04-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -5795,7 +5795,7 @@
       "amount": 7050000,
       "display_amount": "\u00a37,050,000",
       "date": "2026-04-15",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -6227,7 +6227,7 @@
       "amount": 3200000,
       "display_amount": "\u00a33,200,000",
       "date": "2026-04-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -6407,7 +6407,7 @@
       "amount": 1260000,
       "display_amount": "\u00a31,260,000",
       "date": "2026-04-02",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -6515,7 +6515,7 @@
       "amount": 200000,
       "display_amount": "\u00a3200,000",
       "date": "2026-04-01",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -6599,7 +6599,7 @@
       "amount": 710000,
       "display_amount": "\u00a3710,000",
       "date": "2026-03-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -6947,7 +6947,7 @@
       "amount": 1000000,
       "display_amount": "\u00a31,000,000",
       "date": "2026-03-27",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -7007,7 +7007,7 @@
       "amount": 700000,
       "display_amount": "\u00a3700,000",
       "date": "2026-03-27",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -7187,7 +7187,7 @@
       "amount": 1220000,
       "display_amount": "\u00a31,220,000",
       "date": "2026-03-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -7475,7 +7475,7 @@
       "amount": 285000,
       "display_amount": "\u00a3285,000",
       "date": "2026-03-20",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -8663,7 +8663,7 @@
       "amount": 285000,
       "display_amount": "\u00a3285,000",
       "date": "2026-02-27",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -8687,7 +8687,7 @@
       "amount": 432500,
       "display_amount": "\u00a3432,500",
       "date": "2026-02-27",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -10595,7 +10595,7 @@
       "amount": 240000,
       "display_amount": "\u00a3240,000",
       "date": "2026-02-06",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -10667,7 +10667,7 @@
       "amount": 310000,
       "display_amount": "\u00a3310,000",
       "date": "2026-02-06",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -10847,7 +10847,7 @@
       "amount": 255000,
       "display_amount": "\u00a3255,000",
       "date": "2026-02-02",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -11303,7 +11303,7 @@
       "amount": 260000,
       "display_amount": "\u00a3260,000",
       "date": "2026-01-29",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -11327,7 +11327,7 @@
       "amount": 650000,
       "display_amount": "\u00a3650,000",
       "date": "2026-01-29",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -11459,7 +11459,7 @@
       "amount": 19100,
       "display_amount": "\u00a319,100",
       "date": "2026-01-27",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -11843,7 +11843,7 @@
       "amount": 775000,
       "display_amount": "\u00a3775,000",
       "date": "2026-01-21",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -12011,7 +12011,7 @@
       "amount": 155000,
       "display_amount": "\u00a3155,000",
       "date": "2026-01-16",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -12059,7 +12059,7 @@
       "amount": 375000,
       "display_amount": "\u00a3375,000",
       "date": "2026-01-16",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -12359,7 +12359,7 @@
       "amount": 765000,
       "display_amount": "\u00a3765,000",
       "date": "2026-01-14",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -12587,7 +12587,7 @@
       "amount": 550000,
       "display_amount": "\u00a3550,000",
       "date": "2026-01-09",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -12635,7 +12635,7 @@
       "amount": 475000,
       "display_amount": "\u00a3475,000",
       "date": "2026-01-09",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -12839,7 +12839,7 @@
       "amount": 1105000,
       "display_amount": "\u00a31,105,000",
       "date": "2026-01-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -12899,7 +12899,7 @@
       "amount": 395000,
       "display_amount": "\u00a3395,000",
       "date": "2026-01-06",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -12995,7 +12995,7 @@
       "amount": 1100000,
       "display_amount": "\u00a31,100,000",
       "date": "2026-01-05",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -13007,7 +13007,7 @@
       "amount": 375000,
       "display_amount": "\u00a3375,000",
       "date": "2026-01-05",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -13199,7 +13199,7 @@
       "amount": 100000,
       "display_amount": "\u00a3100,000",
       "date": "2025-12-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -13391,7 +13391,7 @@
       "amount": 100000,
       "display_amount": "\u00a3100,000",
       "date": "2025-12-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -13475,7 +13475,7 @@
       "amount": 275000,
       "display_amount": "\u00a3275,000",
       "date": "2025-12-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -13643,7 +13643,7 @@
       "amount": 650000,
       "display_amount": "\u00a3650,000",
       "date": "2025-12-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -13655,7 +13655,7 @@
       "amount": 2300000,
       "display_amount": "\u00a32,300,000",
       "date": "2025-12-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -14075,7 +14075,7 @@
       "amount": 108000,
       "display_amount": "\u00a3108,000",
       "date": "2025-12-17",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -14099,7 +14099,7 @@
       "amount": 485000,
       "display_amount": "\u00a3485,000",
       "date": "2025-12-17",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -14159,7 +14159,7 @@
       "amount": 370000,
       "display_amount": "\u00a3370,000",
       "date": "2025-12-16",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -14387,7 +14387,7 @@
       "amount": 975000,
       "display_amount": "\u00a3975,000",
       "date": "2025-12-15",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -14399,7 +14399,7 @@
       "amount": 975000,
       "display_amount": "\u00a3975,000",
       "date": "2025-12-15",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -14555,7 +14555,7 @@
       "amount": 750000,
       "display_amount": "\u00a3750,000",
       "date": "2025-12-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -14747,7 +14747,7 @@
       "amount": 160000,
       "display_amount": "\u00a3160,000",
       "date": "2025-12-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -14783,7 +14783,7 @@
       "amount": 600000,
       "display_amount": "\u00a3600,000",
       "date": "2025-12-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -14951,7 +14951,7 @@
       "amount": 355000,
       "display_amount": "\u00a3355,000",
       "date": "2025-12-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -14963,7 +14963,7 @@
       "amount": 950000,
       "display_amount": "\u00a3950,000",
       "date": "2025-12-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -16415,7 +16415,7 @@
       "amount": 2570000,
       "display_amount": "\u00a32,570,000",
       "date": "2025-11-26",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -16475,7 +16475,7 @@
       "amount": 2200000,
       "display_amount": "\u00a32,200,000",
       "date": "2025-11-26",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -16607,7 +16607,7 @@
       "amount": 2250000,
       "display_amount": "\u00a32,250,000",
       "date": "2025-11-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -16643,7 +16643,7 @@
       "amount": 830000,
       "display_amount": "\u00a3830,000",
       "date": "2025-11-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -16691,7 +16691,7 @@
       "amount": 1290000,
       "display_amount": "\u00a31,290,000",
       "date": "2025-11-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -17051,7 +17051,7 @@
       "amount": 145000,
       "display_amount": "\u00a3145,000",
       "date": "2025-11-21",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -17123,7 +17123,7 @@
       "amount": 1600000,
       "display_amount": "\u00a31,600,000",
       "date": "2025-11-21",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -17243,7 +17243,7 @@
       "amount": 1250000,
       "display_amount": "\u00a31,250,000",
       "date": "2025-11-20",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -17291,7 +17291,7 @@
       "amount": 1050000,
       "display_amount": "\u00a31,050,000",
       "date": "2025-11-20",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -17363,7 +17363,7 @@
       "amount": 175000,
       "display_amount": "\u00a3175,000",
       "date": "2025-11-18",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -17651,7 +17651,7 @@
       "amount": 780000,
       "display_amount": "\u00a3780,000",
       "date": "2025-11-14",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -17843,7 +17843,7 @@
       "amount": 255000,
       "display_amount": "\u00a3255,000",
       "date": "2025-11-14",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -18671,7 +18671,7 @@
       "amount": 500000,
       "display_amount": "\u00a3500,000",
       "date": "2025-11-06",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -18899,7 +18899,7 @@
       "amount": 1750000,
       "display_amount": "\u00a31,750,000",
       "date": "2025-11-03",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -19319,7 +19319,7 @@
       "amount": 587500,
       "display_amount": "\u00a3587,500",
       "date": "2025-10-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -19631,7 +19631,7 @@
       "amount": 575000,
       "display_amount": "\u00a3575,000",
       "date": "2025-10-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -19979,7 +19979,7 @@
       "amount": 281973,
       "display_amount": "\u00a3281,973",
       "date": "2025-10-27",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": true
     },
     {
@@ -20327,7 +20327,7 @@
       "amount": 160000,
       "display_amount": "\u00a3160,000",
       "date": "2025-10-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -20747,7 +20747,7 @@
       "amount": 140000,
       "display_amount": "\u00a3140,000",
       "date": "2025-10-21",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -21359,7 +21359,7 @@
       "amount": 985000,
       "display_amount": "\u00a3985,000",
       "date": "2025-10-17",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -21431,7 +21431,7 @@
       "amount": 1685000,
       "display_amount": "\u00a31,685,000",
       "date": "2025-10-16",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -21599,7 +21599,7 @@
       "amount": 265000,
       "display_amount": "\u00a3265,000",
       "date": "2025-10-13",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -22235,7 +22235,7 @@
       "amount": 725000,
       "display_amount": "\u00a3725,000",
       "date": "2025-10-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -22331,7 +22331,7 @@
       "amount": 1156595,
       "display_amount": "\u00a31,156,595",
       "date": "2025-10-06",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -22487,7 +22487,7 @@
       "amount": 990000,
       "display_amount": "\u00a3990,000",
       "date": "2025-10-03",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -23015,7 +23015,7 @@
       "amount": 730000,
       "display_amount": "\u00a3730,000",
       "date": "2025-09-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -23351,7 +23351,7 @@
       "amount": 840000,
       "display_amount": "\u00a3840,000",
       "date": "2025-09-26",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -23471,7 +23471,7 @@
       "amount": 840000,
       "display_amount": "\u00a3840,000",
       "date": "2025-09-26",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -23555,7 +23555,7 @@
       "amount": 635000,
       "display_amount": "\u00a3635,000",
       "date": "2025-09-26",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -24179,7 +24179,7 @@
       "amount": 1650000,
       "display_amount": "\u00a31,650,000",
       "date": "2025-09-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -24287,7 +24287,7 @@
       "amount": 6100000,
       "display_amount": "\u00a36,100,000",
       "date": "2025-09-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -25571,7 +25571,7 @@
       "amount": 215000,
       "display_amount": "\u00a3215,000",
       "date": "2025-09-10",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -26363,7 +26363,7 @@
       "amount": 725000,
       "display_amount": "\u00a3725,000",
       "date": "2025-09-03",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -26447,7 +26447,7 @@
       "amount": 700000,
       "display_amount": "\u00a3700,000",
       "date": "2025-09-02",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -27143,7 +27143,7 @@
       "amount": 635000,
       "display_amount": "\u00a3635,000",
       "date": "2025-08-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -27299,7 +27299,7 @@
       "amount": 760000,
       "display_amount": "\u00a3760,000",
       "date": "2025-08-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -27383,7 +27383,7 @@
       "amount": 34500,
       "display_amount": "\u00a334,500",
       "date": "2025-08-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -28199,7 +28199,7 @@
       "amount": 207500,
       "display_amount": "\u00a3207,500",
       "date": "2025-08-20",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -28343,7 +28343,7 @@
       "amount": 60000,
       "display_amount": "\u00a360,000",
       "date": "2025-08-18",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -28751,7 +28751,7 @@
       "amount": 450000,
       "display_amount": "\u00a3450,000",
       "date": "2025-08-15",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -28943,7 +28943,7 @@
       "amount": 620000,
       "display_amount": "\u00a3620,000",
       "date": "2025-08-14",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -29339,7 +29339,7 @@
       "amount": 1735000,
       "display_amount": "\u00a31,735,000",
       "date": "2025-08-11",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -29591,7 +29591,7 @@
       "amount": 450000,
       "display_amount": "\u00a3450,000",
       "date": "2025-08-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -29807,7 +29807,7 @@
       "amount": 526500,
       "display_amount": "\u00a3526,500",
       "date": "2025-08-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -29879,7 +29879,7 @@
       "amount": 585000,
       "display_amount": "\u00a3585,000",
       "date": "2025-08-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -30083,7 +30083,7 @@
       "amount": 320000,
       "display_amount": "\u00a3320,000",
       "date": "2025-08-05",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -30815,7 +30815,7 @@
       "amount": 285000,
       "display_amount": "\u00a3285,000",
       "date": "2025-07-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -31115,7 +31115,7 @@
       "amount": 1400000,
       "display_amount": "\u00a31,400,000",
       "date": "2025-07-29",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -31415,7 +31415,7 @@
       "amount": 1230000,
       "display_amount": "\u00a31,230,000",
       "date": "2025-07-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -31511,7 +31511,7 @@
       "amount": 13050000,
       "display_amount": "\u00a313,050,000",
       "date": "2025-07-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -31523,7 +31523,7 @@
       "amount": 14500,
       "display_amount": "\u00a314,500",
       "date": "2025-07-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -31859,7 +31859,7 @@
       "amount": 11500000,
       "display_amount": "\u00a311,500,000",
       "date": "2025-07-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -31895,7 +31895,7 @@
       "amount": 1950000,
       "display_amount": "\u00a31,950,000",
       "date": "2025-07-22",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -31907,7 +31907,7 @@
       "amount": 42000,
       "display_amount": "\u00a342,000",
       "date": "2025-07-22",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -32459,7 +32459,7 @@
       "amount": 1175000,
       "display_amount": "\u00a31,175,000",
       "date": "2025-07-17",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -32639,7 +32639,7 @@
       "amount": 375000,
       "display_amount": "\u00a3375,000",
       "date": "2025-07-16",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -33383,7 +33383,7 @@
       "amount": 643417,
       "display_amount": "\u00a3643,417",
       "date": "2025-07-09",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -33983,7 +33983,7 @@
       "amount": 419353,
       "display_amount": "\u00a3419,353",
       "date": "2025-07-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -33995,7 +33995,7 @@
       "amount": 235256,
       "display_amount": "\u00a3235,256",
       "date": "2025-07-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -34103,7 +34103,7 @@
       "amount": 250000,
       "display_amount": "\u00a3250,000",
       "date": "2025-07-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -34187,7 +34187,7 @@
       "amount": 264000,
       "display_amount": "\u00a3264,000",
       "date": "2025-07-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -34247,7 +34247,7 @@
       "amount": 520000,
       "display_amount": "\u00a3520,000",
       "date": "2025-07-03",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -34331,7 +34331,7 @@
       "amount": 3750000,
       "display_amount": "\u00a33,750,000",
       "date": "2025-07-02",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -34475,7 +34475,7 @@
       "amount": 362400,
       "display_amount": "\u00a3362,400",
       "date": "2025-06-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -34679,7 +34679,7 @@
       "amount": 460000,
       "display_amount": "\u00a3460,000",
       "date": "2025-06-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -35183,7 +35183,7 @@
       "amount": 544000,
       "display_amount": "\u00a3544,000",
       "date": "2025-06-27",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": true
     },
     {
@@ -35747,7 +35747,7 @@
       "amount": 1680000,
       "display_amount": "\u00a31,680,000",
       "date": "2025-06-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -35855,7 +35855,7 @@
       "amount": 336000,
       "display_amount": "\u00a3336,000",
       "date": "2025-06-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -35963,7 +35963,7 @@
       "amount": 495000,
       "display_amount": "\u00a3495,000",
       "date": "2025-06-20",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -36047,7 +36047,7 @@
       "amount": 245000,
       "display_amount": "\u00a3245,000",
       "date": "2025-06-20",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -36323,7 +36323,7 @@
       "amount": 1392000,
       "display_amount": "\u00a31,392,000",
       "date": "2025-06-18",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -36335,7 +36335,7 @@
       "amount": 405000,
       "display_amount": "\u00a3405,000",
       "date": "2025-06-18",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -36455,7 +36455,7 @@
       "amount": 1100000,
       "display_amount": "\u00a31,100,000",
       "date": "2025-06-17",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -36611,7 +36611,7 @@
       "amount": 1250000,
       "display_amount": "\u00a31,250,000",
       "date": "2025-06-16",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -37067,7 +37067,7 @@
       "amount": 100000,
       "display_amount": "\u00a3100,000",
       "date": "2025-06-11",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -37151,7 +37151,7 @@
       "amount": 7800000,
       "display_amount": "\u00a37,800,000",
       "date": "2025-06-11",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -37199,7 +37199,7 @@
       "amount": 1350000,
       "display_amount": "\u00a31,350,000",
       "date": "2025-06-09",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -37943,7 +37943,7 @@
       "amount": 156000,
       "display_amount": "\u00a3156,000",
       "date": "2025-05-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -38051,7 +38051,7 @@
       "amount": 584000,
       "display_amount": "\u00a3584,000",
       "date": "2025-05-29",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -38471,7 +38471,7 @@
       "amount": 1020000,
       "display_amount": "\u00a31,020,000",
       "date": "2025-05-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -38735,7 +38735,7 @@
       "amount": 460000,
       "display_amount": "\u00a3460,000",
       "date": "2025-05-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -38747,7 +38747,7 @@
       "amount": 700000,
       "display_amount": "\u00a3700,000",
       "date": "2025-05-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -38819,7 +38819,7 @@
       "amount": 145000,
       "display_amount": "\u00a3145,000",
       "date": "2025-05-21",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -38903,7 +38903,7 @@
       "amount": 126000,
       "display_amount": "\u00a3126,000",
       "date": "2025-05-20",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -38927,7 +38927,7 @@
       "amount": 242000,
       "display_amount": "\u00a3242,000",
       "date": "2025-05-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -38951,7 +38951,7 @@
       "amount": 2050000,
       "display_amount": "\u00a32,050,000",
       "date": "2025-05-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -38975,7 +38975,7 @@
       "amount": 2050000,
       "display_amount": "\u00a32,050,000",
       "date": "2025-05-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -38999,7 +38999,7 @@
       "amount": 2050000,
       "display_amount": "\u00a32,050,000",
       "date": "2025-05-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -39023,7 +39023,7 @@
       "amount": 910000,
       "display_amount": "\u00a3910,000",
       "date": "2025-05-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -39335,7 +39335,7 @@
       "amount": 445000,
       "display_amount": "\u00a3445,000",
       "date": "2025-05-14",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -39383,7 +39383,7 @@
       "amount": 600000,
       "display_amount": "\u00a3600,000",
       "date": "2025-05-14",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -39419,7 +39419,7 @@
       "amount": 25000,
       "display_amount": "\u00a325,000",
       "date": "2025-05-14",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -39431,7 +39431,7 @@
       "amount": 20000,
       "display_amount": "\u00a320,000",
       "date": "2025-05-14",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -39503,7 +39503,7 @@
       "amount": 4090000,
       "display_amount": "\u00a34,090,000",
       "date": "2025-05-13",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -39911,7 +39911,7 @@
       "amount": 97200,
       "display_amount": "\u00a397,200",
       "date": "2025-05-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -39959,7 +39959,7 @@
       "amount": 260000,
       "display_amount": "\u00a3260,000",
       "date": "2025-05-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -39971,7 +39971,7 @@
       "amount": 750000,
       "display_amount": "\u00a3750,000",
       "date": "2025-05-06",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -40067,7 +40067,7 @@
       "amount": 807000,
       "display_amount": "\u00a3807,000",
       "date": "2025-05-06",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -40391,7 +40391,7 @@
       "amount": 10000,
       "display_amount": "\u00a310,000",
       "date": "2025-05-01",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -40679,7 +40679,7 @@
       "amount": 180000,
       "display_amount": "\u00a3180,000",
       "date": "2025-04-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -40847,7 +40847,7 @@
       "amount": 450000,
       "display_amount": "\u00a3450,000",
       "date": "2025-04-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -40883,7 +40883,7 @@
       "amount": 500000,
       "display_amount": "\u00a3500,000",
       "date": "2025-04-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -40955,7 +40955,7 @@
       "amount": 575000,
       "display_amount": "\u00a3575,000",
       "date": "2025-04-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -41111,7 +41111,7 @@
       "amount": 330000,
       "display_amount": "\u00a3330,000",
       "date": "2025-04-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -41423,7 +41423,7 @@
       "amount": 198000,
       "display_amount": "\u00a3198,000",
       "date": "2025-04-16",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -41579,7 +41579,7 @@
       "amount": 5000,
       "display_amount": "\u00a35,000",
       "date": "2025-04-11",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -41639,7 +41639,7 @@
       "amount": 951818,
       "display_amount": "\u00a3951,818",
       "date": "2025-04-10",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -41747,7 +41747,7 @@
       "amount": 435000,
       "display_amount": "\u00a3435,000",
       "date": "2025-04-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -41759,7 +41759,7 @@
       "amount": 325000,
       "display_amount": "\u00a3325,000",
       "date": "2025-04-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -41831,7 +41831,7 @@
       "amount": 350000,
       "display_amount": "\u00a3350,000",
       "date": "2025-04-03",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -41867,7 +41867,7 @@
       "amount": 7149995,
       "display_amount": "\u00a37,149,995",
       "date": "2025-04-03",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -41891,7 +41891,7 @@
       "amount": 12000,
       "display_amount": "\u00a312,000",
       "date": "2025-04-02",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -41903,7 +41903,7 @@
       "amount": 2750000,
       "display_amount": "\u00a32,750,000",
       "date": "2025-04-02",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -42131,7 +42131,7 @@
       "amount": 525000,
       "display_amount": "\u00a3525,000",
       "date": "2025-03-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -42731,7 +42731,7 @@
       "amount": 2700000,
       "display_amount": "\u00a32,700,000",
       "date": "2025-03-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -43115,7 +43115,7 @@
       "amount": 260000,
       "display_amount": "\u00a3260,000",
       "date": "2025-03-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -43583,7 +43583,7 @@
       "amount": 368450,
       "display_amount": "\u00a3368,450",
       "date": "2025-03-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -43691,7 +43691,7 @@
       "amount": 905000,
       "display_amount": "\u00a3905,000",
       "date": "2025-03-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -44531,7 +44531,7 @@
       "amount": 4355000,
       "display_amount": "\u00a34,355,000",
       "date": "2025-03-26",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -44951,7 +44951,7 @@
       "amount": 180000,
       "display_amount": "\u00a3180,000",
       "date": "2025-03-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -45071,7 +45071,7 @@
       "amount": 2000000,
       "display_amount": "\u00a32,000,000",
       "date": "2025-03-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -45095,7 +45095,7 @@
       "amount": 550000,
       "display_amount": "\u00a3550,000",
       "date": "2025-03-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -45275,7 +45275,7 @@
       "amount": 257000,
       "display_amount": "\u00a3257,000",
       "date": "2025-03-21",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -45347,7 +45347,7 @@
       "amount": 348500,
       "display_amount": "\u00a3348,500",
       "date": "2025-03-21",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -45695,7 +45695,7 @@
       "amount": 300000,
       "display_amount": "\u00a3300,000",
       "date": "2025-03-20",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -46127,7 +46127,7 @@
       "amount": 11000000,
       "display_amount": "\u00a311,000,000",
       "date": "2025-03-18",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -46259,7 +46259,7 @@
       "amount": 305000,
       "display_amount": "\u00a3305,000",
       "date": "2025-03-17",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -46871,7 +46871,7 @@
       "amount": 177500,
       "display_amount": "\u00a3177,500",
       "date": "2025-03-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -46979,7 +46979,7 @@
       "amount": 137000,
       "display_amount": "\u00a3137,000",
       "date": "2025-03-11",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -47219,7 +47219,7 @@
       "amount": 550000,
       "display_amount": "\u00a3550,000",
       "date": "2025-03-10",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -47243,7 +47243,7 @@
       "amount": 98000,
       "display_amount": "\u00a398,000",
       "date": "2025-03-10",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -47651,7 +47651,7 @@
       "amount": 275000,
       "display_amount": "\u00a3275,000",
       "date": "2025-03-06",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -47915,7 +47915,7 @@
       "amount": 675000,
       "display_amount": "\u00a3675,000",
       "date": "2025-03-05",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -48023,7 +48023,7 @@
       "amount": 9858186,
       "display_amount": "\u00a39,858,186",
       "date": "2025-03-03",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -48383,7 +48383,7 @@
       "amount": 1150000,
       "display_amount": "\u00a31,150,000",
       "date": "2025-02-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -48467,7 +48467,7 @@
       "amount": 190000,
       "display_amount": "\u00a3190,000",
       "date": "2025-02-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -48803,7 +48803,7 @@
       "amount": 126000,
       "display_amount": "\u00a3126,000",
       "date": "2025-02-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -49091,7 +49091,7 @@
       "amount": 237250,
       "display_amount": "\u00a3237,250",
       "date": "2025-02-26",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -49175,7 +49175,7 @@
       "amount": 7800,
       "display_amount": "\u00a37,800",
       "date": "2025-02-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -49187,7 +49187,7 @@
       "amount": 500000,
       "display_amount": "\u00a3500,000",
       "date": "2025-02-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -49547,7 +49547,7 @@
       "amount": 999000,
       "display_amount": "\u00a3999,000",
       "date": "2025-02-21",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -49835,7 +49835,7 @@
       "amount": 1295000,
       "display_amount": "\u00a31,295,000",
       "date": "2025-02-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -50471,7 +50471,7 @@
       "amount": 1338000,
       "display_amount": "\u00a31,338,000",
       "date": "2025-02-13",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -50711,7 +50711,7 @@
       "amount": 143000,
       "display_amount": "\u00a3143,000",
       "date": "2025-02-11",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -50735,7 +50735,7 @@
       "amount": 675000,
       "display_amount": "\u00a3675,000",
       "date": "2025-02-10",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -51635,7 +51635,7 @@
       "amount": 581400,
       "display_amount": "\u00a3581,400",
       "date": "2025-01-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -51947,7 +51947,7 @@
       "amount": 8280000,
       "display_amount": "\u00a38,280,000",
       "date": "2025-01-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -52091,7 +52091,7 @@
       "amount": 1000000,
       "display_amount": "\u00a31,000,000",
       "date": "2025-01-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -52391,7 +52391,7 @@
       "amount": 375000,
       "display_amount": "\u00a3375,000",
       "date": "2025-01-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -52463,7 +52463,7 @@
       "amount": 525000,
       "display_amount": "\u00a3525,000",
       "date": "2025-01-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -52631,7 +52631,7 @@
       "amount": 1300000,
       "display_amount": "\u00a31,300,000",
       "date": "2025-01-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -52691,7 +52691,7 @@
       "amount": 446805,
       "display_amount": "\u00a3446,805",
       "date": "2025-01-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -52703,7 +52703,7 @@
       "amount": 600000,
       "display_amount": "\u00a3600,000",
       "date": "2025-01-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -52907,7 +52907,7 @@
       "amount": 540000,
       "display_amount": "\u00a3540,000",
       "date": "2025-01-22",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -53495,7 +53495,7 @@
       "amount": 1040000,
       "display_amount": "\u00a31,040,000",
       "date": "2025-01-17",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -53759,7 +53759,7 @@
       "amount": 2250000,
       "display_amount": "\u00a32,250,000",
       "date": "2025-01-13",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -54023,7 +54023,7 @@
       "amount": 325000,
       "display_amount": "\u00a3325,000",
       "date": "2025-01-09",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -54467,7 +54467,7 @@
       "amount": 2160000,
       "display_amount": "\u00a32,160,000",
       "date": "2024-12-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -54503,7 +54503,7 @@
       "amount": 570000,
       "display_amount": "\u00a3570,000",
       "date": "2024-12-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -55007,7 +55007,7 @@
       "amount": 970000,
       "display_amount": "\u00a3970,000",
       "date": "2024-12-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -55475,7 +55475,7 @@
       "amount": 555000,
       "display_amount": "\u00a3555,000",
       "date": "2024-12-18",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -55643,7 +55643,7 @@
       "amount": 450000,
       "display_amount": "\u00a3450,000",
       "date": "2024-12-17",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -55751,7 +55751,7 @@
       "amount": 170000,
       "display_amount": "\u00a3170,000",
       "date": "2024-12-16",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -56063,7 +56063,7 @@
       "amount": 89700,
       "display_amount": "\u00a389,700",
       "date": "2024-12-13",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -56963,7 +56963,7 @@
       "amount": 980000,
       "display_amount": "\u00a3980,000",
       "date": "2024-12-06",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -57215,7 +57215,7 @@
       "amount": 3450000,
       "display_amount": "\u00a33,450,000",
       "date": "2024-12-06",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -57515,7 +57515,7 @@
       "amount": 2800000,
       "display_amount": "\u00a32,800,000",
       "date": "2024-12-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -58007,7 +58007,7 @@
       "amount": 1425000,
       "display_amount": "\u00a31,425,000",
       "date": "2024-11-29",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -58079,7 +58079,7 @@
       "amount": 625000,
       "display_amount": "\u00a3625,000",
       "date": "2024-11-29",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -58319,7 +58319,7 @@
       "amount": 425000,
       "display_amount": "\u00a3425,000",
       "date": "2024-11-27",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -58907,7 +58907,7 @@
       "amount": 295000,
       "display_amount": "\u00a3295,000",
       "date": "2024-11-22",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -59351,7 +59351,7 @@
       "amount": 300000,
       "display_amount": "\u00a3300,000",
       "date": "2024-11-18",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -59711,7 +59711,7 @@
       "amount": 1750000,
       "display_amount": "\u00a31,750,000",
       "date": "2024-11-15",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -59903,7 +59903,7 @@
       "amount": 150000,
       "display_amount": "\u00a3150,000",
       "date": "2024-11-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -59915,7 +59915,7 @@
       "amount": 605000,
       "display_amount": "\u00a3605,000",
       "date": "2024-11-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -59939,7 +59939,7 @@
       "amount": 97000,
       "display_amount": "\u00a397,000",
       "date": "2024-11-11",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -60059,7 +60059,7 @@
       "amount": 625000,
       "display_amount": "\u00a3625,000",
       "date": "2024-11-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -60131,7 +60131,7 @@
       "amount": 554000,
       "display_amount": "\u00a3554,000",
       "date": "2024-11-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -60359,7 +60359,7 @@
       "amount": 126001,
       "display_amount": "\u00a3126,001",
       "date": "2024-11-05",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -60443,7 +60443,7 @@
       "amount": 220000,
       "display_amount": "\u00a3220,000",
       "date": "2024-11-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -60539,7 +60539,7 @@
       "amount": 580000,
       "display_amount": "\u00a3580,000",
       "date": "2024-11-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -60575,7 +60575,7 @@
       "amount": 950000,
       "display_amount": "\u00a3950,000",
       "date": "2024-11-01",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -60815,7 +60815,7 @@
       "amount": 17500,
       "display_amount": "\u00a317,500",
       "date": "2024-10-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -60995,7 +60995,7 @@
       "amount": 175000,
       "display_amount": "\u00a3175,000",
       "date": "2024-10-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -61103,7 +61103,7 @@
       "amount": 1300000,
       "display_amount": "\u00a31,300,000",
       "date": "2024-10-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -61607,7 +61607,7 @@
       "amount": 250000,
       "display_amount": "\u00a3250,000",
       "date": "2024-10-29",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -61847,7 +61847,7 @@
       "amount": 164000,
       "display_amount": "\u00a3164,000",
       "date": "2024-10-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -62315,7 +62315,7 @@
       "amount": 1580000,
       "display_amount": "\u00a31,580,000",
       "date": "2024-10-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -62339,7 +62339,7 @@
       "amount": 105000,
       "display_amount": "\u00a3105,000",
       "date": "2024-10-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -62507,7 +62507,7 @@
       "amount": 681600,
       "display_amount": "\u00a3681,600",
       "date": "2024-10-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -62759,7 +62759,7 @@
       "amount": 4950000,
       "display_amount": "\u00a34,950,000",
       "date": "2024-10-21",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -63023,7 +63023,7 @@
       "amount": 260000,
       "display_amount": "\u00a3260,000",
       "date": "2024-10-18",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -63455,7 +63455,7 @@
       "amount": 333000,
       "display_amount": "\u00a3333,000",
       "date": "2024-10-16",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -63611,7 +63611,7 @@
       "amount": 380000,
       "display_amount": "\u00a3380,000",
       "date": "2024-10-14",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -63695,7 +63695,7 @@
       "amount": 233750,
       "display_amount": "\u00a3233,750",
       "date": "2024-10-11",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -63923,7 +63923,7 @@
       "amount": 233750,
       "display_amount": "\u00a3233,750",
       "date": "2024-10-11",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -64019,7 +64019,7 @@
       "amount": 490000,
       "display_amount": "\u00a3490,000",
       "date": "2024-10-11",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -64331,7 +64331,7 @@
       "amount": 435000,
       "display_amount": "\u00a3435,000",
       "date": "2024-10-09",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -64523,7 +64523,7 @@
       "amount": 12000000,
       "display_amount": "\u00a312,000,000",
       "date": "2024-10-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -64571,7 +64571,7 @@
       "amount": 1200000,
       "display_amount": "\u00a31,200,000",
       "date": "2024-10-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -64907,7 +64907,7 @@
       "amount": 630000,
       "display_amount": "\u00a3630,000",
       "date": "2024-10-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -64919,7 +64919,7 @@
       "amount": 315000,
       "display_amount": "\u00a3315,000",
       "date": "2024-10-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -64967,7 +64967,7 @@
       "amount": 275000,
       "display_amount": "\u00a3275,000",
       "date": "2024-10-03",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -65567,7 +65567,7 @@
       "amount": 400000,
       "display_amount": "\u00a3400,000",
       "date": "2024-09-27",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -65675,7 +65675,7 @@
       "amount": 340000,
       "display_amount": "\u00a3340,000",
       "date": "2024-09-27",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -65987,7 +65987,7 @@
       "amount": 1525000,
       "display_amount": "\u00a31,525,000",
       "date": "2024-09-27",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -66623,7 +66623,7 @@
       "amount": 1725000,
       "display_amount": "\u00a31,725,000",
       "date": "2024-09-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -66695,7 +66695,7 @@
       "amount": 1200000,
       "display_amount": "\u00a31,200,000",
       "date": "2024-09-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -66839,7 +66839,7 @@
       "amount": 1300000,
       "display_amount": "\u00a31,300,000",
       "date": "2024-09-20",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -66983,7 +66983,7 @@
       "amount": 547800,
       "display_amount": "\u00a3547,800",
       "date": "2024-09-20",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -67115,7 +67115,7 @@
       "amount": 368200,
       "display_amount": "\u00a3368,200",
       "date": "2024-09-18",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -67391,7 +67391,7 @@
       "amount": 2300000,
       "display_amount": "\u00a32,300,000",
       "date": "2024-09-16",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -67403,7 +67403,7 @@
       "amount": 190000,
       "display_amount": "\u00a3190,000",
       "date": "2024-09-16",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -67631,7 +67631,7 @@
       "amount": 1215000,
       "display_amount": "\u00a31,215,000",
       "date": "2024-09-13",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -67859,7 +67859,7 @@
       "amount": 2000000,
       "display_amount": "\u00a32,000,000",
       "date": "2024-09-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -67931,7 +67931,7 @@
       "amount": 1120000,
       "display_amount": "\u00a31,120,000",
       "date": "2024-09-11",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -68003,7 +68003,7 @@
       "amount": 1120000,
       "display_amount": "\u00a31,120,000",
       "date": "2024-09-11",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -68063,7 +68063,7 @@
       "amount": 110000,
       "display_amount": "\u00a3110,000",
       "date": "2024-09-10",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -68135,7 +68135,7 @@
       "amount": 1200000,
       "display_amount": "\u00a31,200,000",
       "date": "2024-09-09",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -68279,7 +68279,7 @@
       "amount": 140000,
       "display_amount": "\u00a3140,000",
       "date": "2024-09-06",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -68363,7 +68363,7 @@
       "amount": 386000,
       "display_amount": "\u00a3386,000",
       "date": "2024-09-06",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -68519,7 +68519,7 @@
       "amount": 97800,
       "display_amount": "\u00a397,800",
       "date": "2024-09-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -68567,7 +68567,7 @@
       "amount": 225000,
       "display_amount": "\u00a3225,000",
       "date": "2024-09-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -68975,7 +68975,7 @@
       "amount": 140000,
       "display_amount": "\u00a3140,000",
       "date": "2024-08-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -69299,7 +69299,7 @@
       "amount": 810000,
       "display_amount": "\u00a3810,000",
       "date": "2024-08-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -69323,7 +69323,7 @@
       "amount": 181500,
       "display_amount": "\u00a3181,500",
       "date": "2024-08-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -69395,7 +69395,7 @@
       "amount": 370000,
       "display_amount": "\u00a3370,000",
       "date": "2024-08-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -69479,7 +69479,7 @@
       "amount": 3100000,
       "display_amount": "\u00a33,100,000",
       "date": "2024-08-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -69635,7 +69635,7 @@
       "amount": 250000,
       "display_amount": "\u00a3250,000",
       "date": "2024-08-29",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -69719,7 +69719,7 @@
       "amount": 620000,
       "display_amount": "\u00a3620,000",
       "date": "2024-08-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -69755,7 +69755,7 @@
       "amount": 587000,
       "display_amount": "\u00a3587,000",
       "date": "2024-08-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -70247,7 +70247,7 @@
       "amount": 106000,
       "display_amount": "\u00a3106,000",
       "date": "2024-08-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -70619,7 +70619,7 @@
       "amount": 121800,
       "display_amount": "\u00a3121,800",
       "date": "2024-08-20",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -70703,7 +70703,7 @@
       "amount": 126000,
       "display_amount": "\u00a3126,000",
       "date": "2024-08-20",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -72143,7 +72143,7 @@
       "amount": 137000,
       "display_amount": "\u00a3137,000",
       "date": "2024-08-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -72155,7 +72155,7 @@
       "amount": 158000,
       "display_amount": "\u00a3158,000",
       "date": "2024-08-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -72191,7 +72191,7 @@
       "amount": 400000,
       "display_amount": "\u00a3400,000",
       "date": "2024-08-06",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -72563,7 +72563,7 @@
       "amount": 1800000,
       "display_amount": "\u00a31,800,000",
       "date": "2024-08-01",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -72599,7 +72599,7 @@
       "amount": 3086500,
       "display_amount": "\u00a33,086,500",
       "date": "2024-08-01",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -72803,7 +72803,7 @@
       "amount": 118000,
       "display_amount": "\u00a3118,000",
       "date": "2024-07-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -73019,7 +73019,7 @@
       "amount": 410000,
       "display_amount": "\u00a3410,000",
       "date": "2024-07-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -73055,7 +73055,7 @@
       "amount": 781200,
       "display_amount": "\u00a3781,200",
       "date": "2024-07-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -73151,7 +73151,7 @@
       "amount": 199200,
       "display_amount": "\u00a3199,200",
       "date": "2024-07-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -73175,7 +73175,7 @@
       "amount": 224000,
       "display_amount": "\u00a3224,000",
       "date": "2024-07-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -73271,7 +73271,7 @@
       "amount": 375000,
       "display_amount": "\u00a3375,000",
       "date": "2024-07-27",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -73499,7 +73499,7 @@
       "amount": 1500000,
       "display_amount": "\u00a31,500,000",
       "date": "2024-07-26",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -73907,7 +73907,7 @@
       "amount": 90000,
       "display_amount": "\u00a390,000",
       "date": "2024-07-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -74207,7 +74207,7 @@
       "amount": 1322500,
       "display_amount": "\u00a31,322,500",
       "date": "2024-07-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -74267,7 +74267,7 @@
       "amount": 170000,
       "display_amount": "\u00a3170,000",
       "date": "2024-07-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -74483,7 +74483,7 @@
       "amount": 163200,
       "display_amount": "\u00a3163,200",
       "date": "2024-07-18",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -74591,7 +74591,7 @@
       "amount": 690000,
       "display_amount": "\u00a3690,000",
       "date": "2024-07-16",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -74771,7 +74771,7 @@
       "amount": 2350000,
       "display_amount": "\u00a32,350,000",
       "date": "2024-07-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -74879,7 +74879,7 @@
       "amount": 230000,
       "display_amount": "\u00a3230,000",
       "date": "2024-07-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -75167,7 +75167,7 @@
       "amount": 185000,
       "display_amount": "\u00a3185,000",
       "date": "2024-07-10",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -75311,7 +75311,7 @@
       "amount": 324000,
       "display_amount": "\u00a3324,000",
       "date": "2024-07-09",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -75803,7 +75803,7 @@
       "amount": 128000,
       "display_amount": "\u00a3128,000",
       "date": "2024-07-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -76247,7 +76247,7 @@
       "amount": 2000000,
       "display_amount": "\u00a32,000,000",
       "date": "2024-06-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -76487,7 +76487,7 @@
       "amount": 4560000,
       "display_amount": "\u00a34,560,000",
       "date": "2024-06-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -76979,7 +76979,7 @@
       "amount": 606000,
       "display_amount": "\u00a3606,000",
       "date": "2024-06-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -77039,7 +77039,7 @@
       "amount": 2700000,
       "display_amount": "\u00a32,700,000",
       "date": "2024-06-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -77423,7 +77423,7 @@
       "amount": 650000,
       "display_amount": "\u00a3650,000",
       "date": "2024-06-20",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -77819,7 +77819,7 @@
       "amount": 330000,
       "display_amount": "\u00a3330,000",
       "date": "2024-06-14",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -78047,7 +78047,7 @@
       "amount": 300000,
       "display_amount": "\u00a3300,000",
       "date": "2024-06-14",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -78119,7 +78119,7 @@
       "amount": 862500,
       "display_amount": "\u00a3862,500",
       "date": "2024-06-13",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -78323,7 +78323,7 @@
       "amount": 164000,
       "display_amount": "\u00a3164,000",
       "date": "2024-06-11",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -78335,7 +78335,7 @@
       "amount": 502000,
       "display_amount": "\u00a3502,000",
       "date": "2024-06-11",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -78383,7 +78383,7 @@
       "amount": 1700000,
       "display_amount": "\u00a31,700,000",
       "date": "2024-06-11",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -78395,7 +78395,7 @@
       "amount": 441000,
       "display_amount": "\u00a3441,000",
       "date": "2024-06-10",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -78431,7 +78431,7 @@
       "amount": 159000,
       "display_amount": "\u00a3159,000",
       "date": "2024-06-10",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -78707,7 +78707,7 @@
       "amount": 1950000,
       "display_amount": "\u00a31,950,000",
       "date": "2024-06-06",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -78851,7 +78851,7 @@
       "amount": 36000,
       "display_amount": "\u00a336,000",
       "date": "2024-06-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -78959,7 +78959,7 @@
       "amount": 650000,
       "display_amount": "\u00a3650,000",
       "date": "2024-06-03",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -79103,7 +79103,7 @@
       "amount": 4250000,
       "display_amount": "\u00a34,250,000",
       "date": "2024-05-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -79583,7 +79583,7 @@
       "amount": 245000,
       "display_amount": "\u00a3245,000",
       "date": "2024-05-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -79679,7 +79679,7 @@
       "amount": 4616459,
       "display_amount": "\u00a34,616,459",
       "date": "2024-05-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -79775,7 +79775,7 @@
       "amount": 350000,
       "display_amount": "\u00a3350,000",
       "date": "2024-05-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": true
     },
     {
@@ -80003,7 +80003,7 @@
       "amount": 175000,
       "display_amount": "\u00a3175,000",
       "date": "2024-05-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -80075,7 +80075,7 @@
       "amount": 1992624,
       "display_amount": "\u00a31,992,624",
       "date": "2024-05-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -80159,7 +80159,7 @@
       "amount": 195000,
       "display_amount": "\u00a3195,000",
       "date": "2024-05-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -80171,7 +80171,7 @@
       "amount": 330000,
       "display_amount": "\u00a3330,000",
       "date": "2024-05-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -80519,7 +80519,7 @@
       "amount": 245000,
       "display_amount": "\u00a3245,000",
       "date": "2024-05-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -80639,7 +80639,7 @@
       "amount": 400000,
       "display_amount": "\u00a3400,000",
       "date": "2024-05-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": true
     },
     {
@@ -80711,7 +80711,7 @@
       "amount": 1400000,
       "display_amount": "\u00a31,400,000",
       "date": "2024-05-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -80735,7 +80735,7 @@
       "amount": 250000,
       "display_amount": "\u00a3250,000",
       "date": "2024-05-22",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -80891,7 +80891,7 @@
       "amount": 1187137,
       "display_amount": "\u00a31,187,137",
       "date": "2024-05-20",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -81263,7 +81263,7 @@
       "amount": 277000,
       "display_amount": "\u00a3277,000",
       "date": "2024-05-15",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -81323,7 +81323,7 @@
       "amount": 105000,
       "display_amount": "\u00a3105,000",
       "date": "2024-05-14",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -81359,7 +81359,7 @@
       "amount": 433859,
       "display_amount": "\u00a3433,859",
       "date": "2024-05-14",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -81383,7 +81383,7 @@
       "amount": 1075000,
       "display_amount": "\u00a31,075,000",
       "date": "2024-05-14",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -81563,7 +81563,7 @@
       "amount": 690000,
       "display_amount": "\u00a3690,000",
       "date": "2024-05-10",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -81707,7 +81707,7 @@
       "amount": 250000,
       "display_amount": "\u00a3250,000",
       "date": "2024-05-10",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -81815,7 +81815,7 @@
       "amount": 2000,
       "display_amount": "\u00a32,000",
       "date": "2024-05-09",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": true
     },
     {
@@ -81923,7 +81923,7 @@
       "amount": 5500000,
       "display_amount": "\u00a35,500,000",
       "date": "2024-05-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -82199,7 +82199,7 @@
       "amount": 277000,
       "display_amount": "\u00a3277,000",
       "date": "2024-05-03",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -82271,7 +82271,7 @@
       "amount": 275000,
       "display_amount": "\u00a3275,000",
       "date": "2024-05-03",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -82295,7 +82295,7 @@
       "amount": 620000,
       "display_amount": "\u00a3620,000",
       "date": "2024-05-03",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -82571,7 +82571,7 @@
       "amount": 963270,
       "display_amount": "\u00a3963,270",
       "date": "2024-05-02",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -82703,7 +82703,7 @@
       "amount": 2250000,
       "display_amount": "\u00a32,250,000",
       "date": "2024-05-01",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -83411,7 +83411,7 @@
       "amount": 1450000,
       "display_amount": "\u00a31,450,000",
       "date": "2024-04-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -83459,7 +83459,7 @@
       "amount": 2550000,
       "display_amount": "\u00a32,550,000",
       "date": "2024-04-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -83591,7 +83591,7 @@
       "amount": 825000,
       "display_amount": "\u00a3825,000",
       "date": "2024-04-22",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -84419,7 +84419,7 @@
       "amount": 405000,
       "display_amount": "\u00a3405,000",
       "date": "2024-04-09",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -84443,7 +84443,7 @@
       "amount": 222700,
       "display_amount": "\u00a3222,700",
       "date": "2024-04-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -84455,7 +84455,7 @@
       "amount": 209300,
       "display_amount": "\u00a3209,300",
       "date": "2024-04-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -84491,7 +84491,7 @@
       "amount": 363800,
       "display_amount": "\u00a3363,800",
       "date": "2024-04-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -84503,7 +84503,7 @@
       "amount": 262700,
       "display_amount": "\u00a3262,700",
       "date": "2024-04-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -84527,7 +84527,7 @@
       "amount": 134900,
       "display_amount": "\u00a3134,900",
       "date": "2024-04-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -84539,7 +84539,7 @@
       "amount": 151300,
       "display_amount": "\u00a3151,300",
       "date": "2024-04-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -84563,7 +84563,7 @@
       "amount": 1205000,
       "display_amount": "\u00a31,205,000",
       "date": "2024-04-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -84587,7 +84587,7 @@
       "amount": 1600000,
       "display_amount": "\u00a31,600,000",
       "date": "2024-04-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -84599,7 +84599,7 @@
       "amount": 1509000,
       "display_amount": "\u00a31,509,000",
       "date": "2024-04-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -84635,7 +84635,7 @@
       "amount": 183600,
       "display_amount": "\u00a3183,600",
       "date": "2024-04-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -84659,7 +84659,7 @@
       "amount": 111700,
       "display_amount": "\u00a3111,700",
       "date": "2024-04-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -84671,7 +84671,7 @@
       "amount": 324900,
       "display_amount": "\u00a3324,900",
       "date": "2024-04-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -84683,7 +84683,7 @@
       "amount": 1572100,
       "display_amount": "\u00a31,572,100",
       "date": "2024-04-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -84767,7 +84767,7 @@
       "amount": 150000,
       "display_amount": "\u00a3150,000",
       "date": "2024-04-05",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -85139,7 +85139,7 @@
       "amount": 750000,
       "display_amount": "\u00a3750,000",
       "date": "2024-04-03",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -85151,7 +85151,7 @@
       "amount": 750000,
       "display_amount": "\u00a3750,000",
       "date": "2024-04-03",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -85211,7 +85211,7 @@
       "amount": 200000,
       "display_amount": "\u00a3200,000",
       "date": "2024-04-02",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -85439,7 +85439,7 @@
       "amount": 525000,
       "display_amount": "\u00a3525,000",
       "date": "2024-03-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -85547,7 +85547,7 @@
       "amount": 465000,
       "display_amount": "\u00a3465,000",
       "date": "2024-03-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -85703,7 +85703,7 @@
       "amount": 370000,
       "display_amount": "\u00a3370,000",
       "date": "2024-03-27",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -85787,7 +85787,7 @@
       "amount": 1356000,
       "display_amount": "\u00a31,356,000",
       "date": "2024-03-27",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -85799,7 +85799,7 @@
       "amount": 98500,
       "display_amount": "\u00a398,500",
       "date": "2024-03-27",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -85871,7 +85871,7 @@
       "amount": 550000,
       "display_amount": "\u00a3550,000",
       "date": "2024-03-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -85991,7 +85991,7 @@
       "amount": 1525000,
       "display_amount": "\u00a31,525,000",
       "date": "2024-03-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -86399,7 +86399,7 @@
       "amount": 610000,
       "display_amount": "\u00a3610,000",
       "date": "2024-03-21",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -86699,7 +86699,7 @@
       "amount": 2108712,
       "display_amount": "\u00a32,108,712",
       "date": "2024-03-18",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -87095,7 +87095,7 @@
       "amount": 680000,
       "display_amount": "\u00a3680,000",
       "date": "2024-03-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -87311,7 +87311,7 @@
       "amount": 575000,
       "display_amount": "\u00a3575,000",
       "date": "2024-03-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -87359,7 +87359,7 @@
       "amount": 190000,
       "display_amount": "\u00a3190,000",
       "date": "2024-03-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -87455,7 +87455,7 @@
       "amount": 125000,
       "display_amount": "\u00a3125,000",
       "date": "2024-03-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -87515,7 +87515,7 @@
       "amount": 680000,
       "display_amount": "\u00a3680,000",
       "date": "2024-03-06",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -87527,7 +87527,7 @@
       "amount": 1998053,
       "display_amount": "\u00a31,998,053",
       "date": "2024-03-05",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -87563,7 +87563,7 @@
       "amount": 275000,
       "display_amount": "\u00a3275,000",
       "date": "2024-03-05",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -87671,7 +87671,7 @@
       "amount": 13100000,
       "display_amount": "\u00a313,100,000",
       "date": "2024-03-01",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -87719,7 +87719,7 @@
       "amount": 98000,
       "display_amount": "\u00a398,000",
       "date": "2024-03-01",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -87995,7 +87995,7 @@
       "amount": 665000,
       "display_amount": "\u00a3665,000",
       "date": "2024-02-29",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -88163,7 +88163,7 @@
       "amount": 400000,
       "display_amount": "\u00a3400,000",
       "date": "2024-02-27",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -88187,7 +88187,7 @@
       "amount": 910000,
       "display_amount": "\u00a3910,000",
       "date": "2024-02-27",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -88271,7 +88271,7 @@
       "amount": 250000,
       "display_amount": "\u00a3250,000",
       "date": "2024-02-26",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -88655,7 +88655,7 @@
       "amount": 40000,
       "display_amount": "\u00a340,000",
       "date": "2024-02-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -89087,7 +89087,7 @@
       "amount": 300000,
       "display_amount": "\u00a3300,000",
       "date": "2024-02-16",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -89579,7 +89579,7 @@
       "amount": 990000,
       "display_amount": "\u00a3990,000",
       "date": "2024-02-09",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -89723,7 +89723,7 @@
       "amount": 685000,
       "display_amount": "\u00a3685,000",
       "date": "2024-02-09",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -90179,7 +90179,7 @@
       "amount": 257000,
       "display_amount": "\u00a3257,000",
       "date": "2024-02-01",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -90659,7 +90659,7 @@
       "amount": 155000,
       "display_amount": "\u00a3155,000",
       "date": "2024-01-29",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -90899,7 +90899,7 @@
       "amount": 365000,
       "display_amount": "\u00a3365,000",
       "date": "2024-01-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -90947,7 +90947,7 @@
       "amount": 1500000,
       "display_amount": "\u00a31,500,000",
       "date": "2024-01-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -90971,7 +90971,7 @@
       "amount": 367500,
       "display_amount": "\u00a3367,500",
       "date": "2024-01-22",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -91115,7 +91115,7 @@
       "amount": 165000,
       "display_amount": "\u00a3165,000",
       "date": "2024-01-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -91415,7 +91415,7 @@
       "amount": 180000,
       "display_amount": "\u00a3180,000",
       "date": "2024-01-17",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -91427,7 +91427,7 @@
       "amount": 770000,
       "display_amount": "\u00a3770,000",
       "date": "2024-01-16",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -91619,7 +91619,7 @@
       "amount": 1186000,
       "display_amount": "\u00a31,186,000",
       "date": "2024-01-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -91631,7 +91631,7 @@
       "amount": 665912,
       "display_amount": "\u00a3665,912",
       "date": "2024-01-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -91643,7 +91643,7 @@
       "amount": 210000,
       "display_amount": "\u00a3210,000",
       "date": "2024-01-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -91727,7 +91727,7 @@
       "amount": 100000,
       "display_amount": "\u00a3100,000",
       "date": "2024-01-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -91799,7 +91799,7 @@
       "amount": 360000,
       "display_amount": "\u00a3360,000",
       "date": "2024-01-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -92219,7 +92219,7 @@
       "amount": 725806,
       "display_amount": "\u00a3725,806",
       "date": "2024-01-10",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -92291,7 +92291,7 @@
       "amount": 315000,
       "display_amount": "\u00a3315,000",
       "date": "2024-01-09",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -92963,7 +92963,7 @@
       "amount": 3520000,
       "display_amount": "\u00a33,520,000",
       "date": "2023-12-27",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -92999,7 +92999,7 @@
       "amount": 325000,
       "display_amount": "\u00a3325,000",
       "date": "2023-12-21",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -93587,7 +93587,7 @@
       "amount": 485000,
       "display_amount": "\u00a3485,000",
       "date": "2023-12-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -93611,7 +93611,7 @@
       "amount": 1190000,
       "display_amount": "\u00a31,190,000",
       "date": "2023-12-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -93623,7 +93623,7 @@
       "amount": 1190000,
       "display_amount": "\u00a31,190,000",
       "date": "2023-12-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -93647,7 +93647,7 @@
       "amount": 485000,
       "display_amount": "\u00a3485,000",
       "date": "2023-12-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -93911,7 +93911,7 @@
       "amount": 835000,
       "display_amount": "\u00a3835,000",
       "date": "2023-12-15",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -93923,7 +93923,7 @@
       "amount": 27600,
       "display_amount": "\u00a327,600",
       "date": "2023-12-15",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -94043,7 +94043,7 @@
       "amount": 4500000,
       "display_amount": "\u00a34,500,000",
       "date": "2023-12-15",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -94631,7 +94631,7 @@
       "amount": 2750000,
       "display_amount": "\u00a32,750,000",
       "date": "2023-12-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -94763,7 +94763,7 @@
       "amount": 708108,
       "display_amount": "\u00a3708,108",
       "date": "2023-12-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -94847,7 +94847,7 @@
       "amount": 1800000,
       "display_amount": "\u00a31,800,000",
       "date": "2023-12-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -94883,7 +94883,7 @@
       "amount": 678500,
       "display_amount": "\u00a3678,500",
       "date": "2023-12-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -94967,7 +94967,7 @@
       "amount": 606000,
       "display_amount": "\u00a3606,000",
       "date": "2023-12-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": true
     },
     {
@@ -95171,7 +95171,7 @@
       "amount": 1250000,
       "display_amount": "\u00a31,250,000",
       "date": "2023-12-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -95183,7 +95183,7 @@
       "amount": 795000,
       "display_amount": "\u00a3795,000",
       "date": "2023-12-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -95375,7 +95375,7 @@
       "amount": 300000,
       "display_amount": "\u00a3300,000",
       "date": "2023-12-05",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -95507,7 +95507,7 @@
       "amount": 915000,
       "display_amount": "\u00a3915,000",
       "date": "2023-12-01",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -95579,7 +95579,7 @@
       "amount": 93600,
       "display_amount": "\u00a393,600",
       "date": "2023-12-01",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -95927,7 +95927,7 @@
       "amount": 350000,
       "display_amount": "\u00a3350,000",
       "date": "2023-11-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -95963,7 +95963,7 @@
       "amount": 40000,
       "display_amount": "\u00a340,000",
       "date": "2023-11-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -95975,7 +95975,7 @@
       "amount": 167500,
       "display_amount": "\u00a3167,500",
       "date": "2023-11-29",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -96011,7 +96011,7 @@
       "amount": 650000,
       "display_amount": "\u00a3650,000",
       "date": "2023-11-29",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -96575,7 +96575,7 @@
       "amount": 35000,
       "display_amount": "\u00a335,000",
       "date": "2023-11-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -96671,7 +96671,7 @@
       "amount": 210005,
       "display_amount": "\u00a3210,005",
       "date": "2023-11-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -96803,7 +96803,7 @@
       "amount": 2425000,
       "display_amount": "\u00a32,425,000",
       "date": "2023-11-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -96827,7 +96827,7 @@
       "amount": 445000,
       "display_amount": "\u00a3445,000",
       "date": "2023-11-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -97019,7 +97019,7 @@
       "amount": 675600,
       "display_amount": "\u00a3675,600",
       "date": "2023-11-21",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -97271,7 +97271,7 @@
       "amount": 435000,
       "display_amount": "\u00a3435,000",
       "date": "2023-11-17",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -97547,7 +97547,7 @@
       "amount": 1100000,
       "display_amount": "\u00a31,100,000",
       "date": "2023-11-13",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -97595,7 +97595,7 @@
       "amount": 1425772,
       "display_amount": "\u00a31,425,772",
       "date": "2023-11-13",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -97763,7 +97763,7 @@
       "amount": 800000,
       "display_amount": "\u00a3800,000",
       "date": "2023-11-10",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -97895,7 +97895,7 @@
       "amount": 385000,
       "display_amount": "\u00a3385,000",
       "date": "2023-11-10",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -98039,7 +98039,7 @@
       "amount": 220000,
       "display_amount": "\u00a3220,000",
       "date": "2023-11-09",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -98219,7 +98219,7 @@
       "amount": 2800000,
       "display_amount": "\u00a32,800,000",
       "date": "2023-11-06",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -98327,7 +98327,7 @@
       "amount": 855000,
       "display_amount": "\u00a3855,000",
       "date": "2023-11-03",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": true
     },
     {
@@ -98399,7 +98399,7 @@
       "amount": 5150000,
       "display_amount": "\u00a35,150,000",
       "date": "2023-11-03",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -98471,7 +98471,7 @@
       "amount": 325000,
       "display_amount": "\u00a3325,000",
       "date": "2023-11-03",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -98615,7 +98615,7 @@
       "amount": 772000,
       "display_amount": "\u00a3772,000",
       "date": "2023-11-02",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -98627,7 +98627,7 @@
       "amount": 830000,
       "display_amount": "\u00a3830,000",
       "date": "2023-11-02",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -98699,7 +98699,7 @@
       "amount": 895000,
       "display_amount": "\u00a3895,000",
       "date": "2023-11-01",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -98735,7 +98735,7 @@
       "amount": 895000,
       "display_amount": "\u00a3895,000",
       "date": "2023-11-01",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -98891,7 +98891,7 @@
       "amount": 134000,
       "display_amount": "\u00a3134,000",
       "date": "2023-10-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -98927,7 +98927,7 @@
       "amount": 510000,
       "display_amount": "\u00a3510,000",
       "date": "2023-10-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -98951,7 +98951,7 @@
       "amount": 445000,
       "display_amount": "\u00a3445,000",
       "date": "2023-10-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -99071,7 +99071,7 @@
       "amount": 100000,
       "display_amount": "\u00a3100,000",
       "date": "2023-10-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -99083,7 +99083,7 @@
       "amount": 550000,
       "display_amount": "\u00a3550,000",
       "date": "2023-10-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -99095,7 +99095,7 @@
       "amount": 100000,
       "display_amount": "\u00a3100,000",
       "date": "2023-10-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -99335,7 +99335,7 @@
       "amount": 1000000,
       "display_amount": "\u00a31,000,000",
       "date": "2023-10-27",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -99611,7 +99611,7 @@
       "amount": 1090000,
       "display_amount": "\u00a31,090,000",
       "date": "2023-10-26",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -99767,7 +99767,7 @@
       "amount": 600000,
       "display_amount": "\u00a3600,000",
       "date": "2023-10-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -100031,7 +100031,7 @@
       "amount": 804971,
       "display_amount": "\u00a3804,971",
       "date": "2023-10-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": true
     },
     {
@@ -100619,7 +100619,7 @@
       "amount": 480000,
       "display_amount": "\u00a3480,000",
       "date": "2023-10-16",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -101099,7 +101099,7 @@
       "amount": 246000,
       "display_amount": "\u00a3246,000",
       "date": "2023-10-11",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -101255,7 +101255,7 @@
       "amount": 162500,
       "display_amount": "\u00a3162,500",
       "date": "2023-10-10",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -101375,7 +101375,7 @@
       "amount": 145000,
       "display_amount": "\u00a3145,000",
       "date": "2023-10-09",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -101639,7 +101639,7 @@
       "amount": 37537,
       "display_amount": "\u00a337,537",
       "date": "2023-10-06",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -101723,7 +101723,7 @@
       "amount": 366000,
       "display_amount": "\u00a3366,000",
       "date": "2023-10-05",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -101843,7 +101843,7 @@
       "amount": 905000,
       "display_amount": "\u00a3905,000",
       "date": "2023-10-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -101867,7 +101867,7 @@
       "amount": 65000,
       "display_amount": "\u00a365,000",
       "date": "2023-10-03",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -102071,7 +102071,7 @@
       "amount": 4870000,
       "display_amount": "\u00a34,870,000",
       "date": "2023-09-29",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -102563,7 +102563,7 @@
       "amount": 296500,
       "display_amount": "\u00a3296,500",
       "date": "2023-09-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -102755,7 +102755,7 @@
       "amount": 309000,
       "display_amount": "\u00a3309,000",
       "date": "2023-09-26",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -102767,7 +102767,7 @@
       "amount": 6200000,
       "display_amount": "\u00a36,200,000",
       "date": "2023-09-26",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -103007,7 +103007,7 @@
       "amount": 300000,
       "display_amount": "\u00a3300,000",
       "date": "2023-09-22",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -103139,7 +103139,7 @@
       "amount": 969000,
       "display_amount": "\u00a3969,000",
       "date": "2023-09-22",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -103151,7 +103151,7 @@
       "amount": 427500,
       "display_amount": "\u00a3427,500",
       "date": "2023-09-22",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -104255,7 +104255,7 @@
       "amount": 600000,
       "display_amount": "\u00a3600,000",
       "date": "2023-09-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -104267,7 +104267,7 @@
       "amount": 1800000,
       "display_amount": "\u00a31,800,000",
       "date": "2023-09-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -104759,7 +104759,7 @@
       "amount": 697256,
       "display_amount": "\u00a3697,256",
       "date": "2023-09-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -104771,7 +104771,7 @@
       "amount": 447488,
       "display_amount": "\u00a3447,488",
       "date": "2023-09-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -104795,7 +104795,7 @@
       "amount": 547718,
       "display_amount": "\u00a3547,718",
       "date": "2023-09-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -104807,7 +104807,7 @@
       "amount": 392864,
       "display_amount": "\u00a3392,864",
       "date": "2023-09-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -104819,7 +104819,7 @@
       "amount": 547719,
       "display_amount": "\u00a3547,719",
       "date": "2023-09-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -104831,7 +104831,7 @@
       "amount": 894946,
       "display_amount": "\u00a3894,946",
       "date": "2023-09-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -104855,7 +104855,7 @@
       "amount": 3400000,
       "display_amount": "\u00a33,400,000",
       "date": "2023-09-06",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -104987,7 +104987,7 @@
       "amount": 181000,
       "display_amount": "\u00a3181,000",
       "date": "2023-09-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -105467,7 +105467,7 @@
       "amount": 865000,
       "display_amount": "\u00a3865,000",
       "date": "2023-08-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -105503,7 +105503,7 @@
       "amount": 1000,
       "display_amount": "\u00a31,000",
       "date": "2023-08-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -105659,7 +105659,7 @@
       "amount": 385000,
       "display_amount": "\u00a3385,000",
       "date": "2023-08-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -105707,7 +105707,7 @@
       "amount": 202500,
       "display_amount": "\u00a3202,500",
       "date": "2023-08-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -105947,7 +105947,7 @@
       "amount": 2530000,
       "display_amount": "\u00a32,530,000",
       "date": "2023-08-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -105959,7 +105959,7 @@
       "amount": 925000,
       "display_amount": "\u00a3925,000",
       "date": "2023-08-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -105971,7 +105971,7 @@
       "amount": 325000,
       "display_amount": "\u00a3325,000",
       "date": "2023-08-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -106223,7 +106223,7 @@
       "amount": 600000,
       "display_amount": "\u00a3600,000",
       "date": "2023-08-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -106583,7 +106583,7 @@
       "amount": 300000,
       "display_amount": "\u00a3300,000",
       "date": "2023-08-22",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -106847,7 +106847,7 @@
       "amount": 492000,
       "display_amount": "\u00a3492,000",
       "date": "2023-08-18",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -107123,7 +107123,7 @@
       "amount": 85000,
       "display_amount": "\u00a385,000",
       "date": "2023-08-17",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -107651,7 +107651,7 @@
       "amount": 703150,
       "display_amount": "\u00a3703,150",
       "date": "2023-08-11",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -107663,7 +107663,7 @@
       "amount": 18750000,
       "display_amount": "\u00a318,750,000",
       "date": "2023-08-10",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -107675,7 +107675,7 @@
       "amount": 250000,
       "display_amount": "\u00a3250,000",
       "date": "2023-08-10",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -107927,7 +107927,7 @@
       "amount": 1600000,
       "display_amount": "\u00a31,600,000",
       "date": "2023-08-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -108047,7 +108047,7 @@
       "amount": 510000,
       "display_amount": "\u00a3510,000",
       "date": "2023-08-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -108623,7 +108623,7 @@
       "amount": 775000,
       "display_amount": "\u00a3775,000",
       "date": "2023-07-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -109091,7 +109091,7 @@
       "amount": 525000,
       "display_amount": "\u00a3525,000",
       "date": "2023-07-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": true
     },
     {
@@ -109343,7 +109343,7 @@
       "amount": 2100000,
       "display_amount": "\u00a32,100,000",
       "date": "2023-07-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -109691,7 +109691,7 @@
       "amount": 124000,
       "display_amount": "\u00a3124,000",
       "date": "2023-07-20",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -109703,7 +109703,7 @@
       "amount": 6000,
       "display_amount": "\u00a36,000",
       "date": "2023-07-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -109955,7 +109955,7 @@
       "amount": 2880000,
       "display_amount": "\u00a32,880,000",
       "date": "2023-07-17",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -110219,7 +110219,7 @@
       "amount": 400000,
       "display_amount": "\u00a3400,000",
       "date": "2023-07-14",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -110579,7 +110579,7 @@
       "amount": 135000,
       "display_amount": "\u00a3135,000",
       "date": "2023-07-10",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -110747,7 +110747,7 @@
       "amount": 170000,
       "display_amount": "\u00a3170,000",
       "date": "2023-07-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -110831,7 +110831,7 @@
       "amount": 880000,
       "display_amount": "\u00a3880,000",
       "date": "2023-07-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -110927,7 +110927,7 @@
       "amount": 8400,
       "display_amount": "\u00a38,400",
       "date": "2023-07-05",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -110951,7 +110951,7 @@
       "amount": 650000,
       "display_amount": "\u00a3650,000",
       "date": "2023-07-05",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -110999,7 +110999,7 @@
       "amount": 1250000,
       "display_amount": "\u00a31,250,000",
       "date": "2023-07-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -111791,7 +111791,7 @@
       "amount": 120000,
       "display_amount": "\u00a3120,000",
       "date": "2023-06-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -111959,7 +111959,7 @@
       "amount": 62000,
       "display_amount": "\u00a362,000",
       "date": "2023-06-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -112127,7 +112127,7 @@
       "amount": 13491183,
       "display_amount": "\u00a313,491,183",
       "date": "2023-06-29",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -112235,7 +112235,7 @@
       "amount": 350095,
       "display_amount": "\u00a3350,095",
       "date": "2023-06-29",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -112307,7 +112307,7 @@
       "amount": 2700000,
       "display_amount": "\u00a32,700,000",
       "date": "2023-06-29",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -112415,7 +112415,7 @@
       "amount": 1216000,
       "display_amount": "\u00a31,216,000",
       "date": "2023-06-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -112475,7 +112475,7 @@
       "amount": 1937000,
       "display_amount": "\u00a31,937,000",
       "date": "2023-06-26",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -112667,7 +112667,7 @@
       "amount": 250000,
       "display_amount": "\u00a3250,000",
       "date": "2023-06-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -112919,7 +112919,7 @@
       "amount": 1500000,
       "display_amount": "\u00a31,500,000",
       "date": "2023-06-20",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -113375,7 +113375,7 @@
       "amount": 650000,
       "display_amount": "\u00a3650,000",
       "date": "2023-06-16",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -113459,7 +113459,7 @@
       "amount": 250000,
       "display_amount": "\u00a3250,000",
       "date": "2023-06-15",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -114287,7 +114287,7 @@
       "amount": 825000,
       "display_amount": "\u00a3825,000",
       "date": "2023-06-02",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -114359,7 +114359,7 @@
       "amount": 103800,
       "display_amount": "\u00a3103,800",
       "date": "2023-06-01",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -114659,7 +114659,7 @@
       "amount": 250000,
       "display_amount": "\u00a3250,000",
       "date": "2023-05-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -114695,7 +114695,7 @@
       "amount": 230000,
       "display_amount": "\u00a3230,000",
       "date": "2023-05-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -114863,7 +114863,7 @@
       "amount": 18850,
       "display_amount": "\u00a318,850",
       "date": "2023-05-26",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -115079,7 +115079,7 @@
       "amount": 420000,
       "display_amount": "\u00a3420,000",
       "date": "2023-05-26",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -115247,7 +115247,7 @@
       "amount": 3000000,
       "display_amount": "\u00a33,000,000",
       "date": "2023-05-26",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -115379,7 +115379,7 @@
       "amount": 331000,
       "display_amount": "\u00a3331,000",
       "date": "2023-05-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -115415,7 +115415,7 @@
       "amount": 130000,
       "display_amount": "\u00a3130,000",
       "date": "2023-05-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -115439,7 +115439,7 @@
       "amount": 242500,
       "display_amount": "\u00a3242,500",
       "date": "2023-05-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -115571,7 +115571,7 @@
       "amount": 512730,
       "display_amount": "\u00a3512,730",
       "date": "2023-05-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": true
     },
     {
@@ -115811,7 +115811,7 @@
       "amount": 237500,
       "display_amount": "\u00a3237,500",
       "date": "2023-05-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -116135,7 +116135,7 @@
       "amount": 135000,
       "display_amount": "\u00a3135,000",
       "date": "2023-05-18",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -116339,7 +116339,7 @@
       "amount": 120000,
       "display_amount": "\u00a3120,000",
       "date": "2023-05-15",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -116387,7 +116387,7 @@
       "amount": 828000,
       "display_amount": "\u00a3828,000",
       "date": "2023-05-15",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": true
     },
     {
@@ -116555,7 +116555,7 @@
       "amount": 232000,
       "display_amount": "\u00a3232,000",
       "date": "2023-05-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -116567,7 +116567,7 @@
       "amount": 2625000,
       "display_amount": "\u00a32,625,000",
       "date": "2023-05-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -116747,7 +116747,7 @@
       "amount": 458333,
       "display_amount": "\u00a3458,333",
       "date": "2023-05-11",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -117083,7 +117083,7 @@
       "amount": 420000,
       "display_amount": "\u00a3420,000",
       "date": "2023-05-05",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -117119,7 +117119,7 @@
       "amount": 1104000,
       "display_amount": "\u00a31,104,000",
       "date": "2023-05-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -117155,7 +117155,7 @@
       "amount": 104400,
       "display_amount": "\u00a3104,400",
       "date": "2023-05-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -117167,7 +117167,7 @@
       "amount": 140376,
       "display_amount": "\u00a3140,376",
       "date": "2023-05-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -117707,7 +117707,7 @@
       "amount": 1550000,
       "display_amount": "\u00a31,550,000",
       "date": "2023-04-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -117995,7 +117995,7 @@
       "amount": 580000,
       "display_amount": "\u00a3580,000",
       "date": "2023-04-26",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -118235,7 +118235,7 @@
       "amount": 17000,
       "display_amount": "\u00a317,000",
       "date": "2023-04-21",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -118271,7 +118271,7 @@
       "amount": 285000,
       "display_amount": "\u00a3285,000",
       "date": "2023-04-21",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -118535,7 +118535,7 @@
       "amount": 223631,
       "display_amount": "\u00a3223,631",
       "date": "2023-04-18",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": true
     },
     {
@@ -118559,7 +118559,7 @@
       "amount": 3537000,
       "display_amount": "\u00a33,537,000",
       "date": "2023-04-17",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -118667,7 +118667,7 @@
       "amount": 300000,
       "display_amount": "\u00a3300,000",
       "date": "2023-04-14",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -119135,7 +119135,7 @@
       "amount": 110000,
       "display_amount": "\u00a3110,000",
       "date": "2023-04-06",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -119255,7 +119255,7 @@
       "amount": 300000,
       "display_amount": "\u00a3300,000",
       "date": "2023-04-05",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -119279,7 +119279,7 @@
       "amount": 1000000,
       "display_amount": "\u00a31,000,000",
       "date": "2023-04-05",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -119327,7 +119327,7 @@
       "amount": 516000,
       "display_amount": "\u00a3516,000",
       "date": "2023-04-05",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -119471,7 +119471,7 @@
       "amount": 495000,
       "display_amount": "\u00a3495,000",
       "date": "2023-04-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -119927,7 +119927,7 @@
       "amount": 2500000,
       "display_amount": "\u00a32,500,000",
       "date": "2023-03-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -120035,7 +120035,7 @@
       "amount": 355000,
       "display_amount": "\u00a3355,000",
       "date": "2023-03-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -120179,7 +120179,7 @@
       "amount": 181500,
       "display_amount": "\u00a3181,500",
       "date": "2023-03-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -120395,7 +120395,7 @@
       "amount": 310000,
       "display_amount": "\u00a3310,000",
       "date": "2023-03-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -120635,7 +120635,7 @@
       "amount": 1225000,
       "display_amount": "\u00a31,225,000",
       "date": "2023-03-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -120743,7 +120743,7 @@
       "amount": 175750,
       "display_amount": "\u00a3175,750",
       "date": "2023-03-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -121067,7 +121067,7 @@
       "amount": 2488977,
       "display_amount": "\u00a32,488,977",
       "date": "2023-03-17",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -121211,7 +121211,7 @@
       "amount": 950000,
       "display_amount": "\u00a3950,000",
       "date": "2023-03-16",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -121235,7 +121235,7 @@
       "amount": 1350000,
       "display_amount": "\u00a31,350,000",
       "date": "2023-03-16",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -121271,7 +121271,7 @@
       "amount": 950000,
       "display_amount": "\u00a3950,000",
       "date": "2023-03-16",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -121475,7 +121475,7 @@
       "amount": 1475000,
       "display_amount": "\u00a31,475,000",
       "date": "2023-03-14",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -122087,7 +122087,7 @@
       "amount": 432500,
       "display_amount": "\u00a3432,500",
       "date": "2023-03-10",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -122171,7 +122171,7 @@
       "amount": 350000,
       "display_amount": "\u00a3350,000",
       "date": "2023-03-10",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -122399,7 +122399,7 @@
       "amount": 210000,
       "display_amount": "\u00a3210,000",
       "date": "2023-03-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -122579,7 +122579,7 @@
       "amount": 150000,
       "display_amount": "\u00a3150,000",
       "date": "2023-03-06",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -123023,7 +123023,7 @@
       "amount": 480000,
       "display_amount": "\u00a3480,000",
       "date": "2023-03-01",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -123071,7 +123071,7 @@
       "amount": 255000,
       "display_amount": "\u00a3255,000",
       "date": "2023-02-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -123167,7 +123167,7 @@
       "amount": 1000000,
       "display_amount": "\u00a31,000,000",
       "date": "2023-02-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -123227,7 +123227,7 @@
       "amount": 7500,
       "display_amount": "\u00a37,500",
       "date": "2023-02-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -123479,7 +123479,7 @@
       "amount": 105000,
       "display_amount": "\u00a3105,000",
       "date": "2023-02-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -123743,7 +123743,7 @@
       "amount": 266000,
       "display_amount": "\u00a3266,000",
       "date": "2023-02-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -123971,7 +123971,7 @@
       "amount": 2325000,
       "display_amount": "\u00a32,325,000",
       "date": "2023-02-17",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -124175,7 +124175,7 @@
       "amount": 530000,
       "display_amount": "\u00a3530,000",
       "date": "2023-02-17",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -124355,7 +124355,7 @@
       "amount": 1225,
       "display_amount": "\u00a31,225",
       "date": "2023-02-14",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -124667,7 +124667,7 @@
       "amount": 205000,
       "display_amount": "\u00a3205,000",
       "date": "2023-02-10",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -124835,7 +124835,7 @@
       "amount": 1777000,
       "display_amount": "\u00a31,777,000",
       "date": "2023-02-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -124847,7 +124847,7 @@
       "amount": 215000,
       "display_amount": "\u00a3215,000",
       "date": "2023-02-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -124871,7 +124871,7 @@
       "amount": 1375000,
       "display_amount": "\u00a31,375,000",
       "date": "2023-02-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -124931,7 +124931,7 @@
       "amount": 25500,
       "display_amount": "\u00a325,500",
       "date": "2023-02-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -124955,7 +124955,7 @@
       "amount": 1350000,
       "display_amount": "\u00a31,350,000",
       "date": "2023-02-07",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -125591,7 +125591,7 @@
       "amount": 1450000,
       "display_amount": "\u00a31,450,000",
       "date": "2023-01-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -125603,7 +125603,7 @@
       "amount": 3475000,
       "display_amount": "\u00a33,475,000",
       "date": "2023-01-31",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -125675,7 +125675,7 @@
       "amount": 240000,
       "display_amount": "\u00a3240,000",
       "date": "2023-01-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -125879,7 +125879,7 @@
       "amount": 312000,
       "display_amount": "\u00a3312,000",
       "date": "2023-01-27",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -126011,7 +126011,7 @@
       "amount": 950419,
       "display_amount": "\u00a3950,419",
       "date": "2023-01-27",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -126023,7 +126023,7 @@
       "amount": 950419,
       "display_amount": "\u00a3950,419",
       "date": "2023-01-27",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -126167,7 +126167,7 @@
       "amount": 482000,
       "display_amount": "\u00a3482,000",
       "date": "2023-01-26",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -126335,7 +126335,7 @@
       "amount": 9000,
       "display_amount": "\u00a39,000",
       "date": "2023-01-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -126419,7 +126419,7 @@
       "amount": 65000,
       "display_amount": "\u00a365,000",
       "date": "2023-01-21",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -127067,7 +127067,7 @@
       "amount": 22500,
       "display_amount": "\u00a322,500",
       "date": "2023-01-13",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -127211,7 +127211,7 @@
       "amount": 125000,
       "display_amount": "\u00a3125,000",
       "date": "2023-01-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -127307,7 +127307,7 @@
       "amount": 745000,
       "display_amount": "\u00a3745,000",
       "date": "2023-01-10",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -127715,7 +127715,7 @@
       "amount": 950419,
       "display_amount": "\u00a3950,419",
       "date": "2023-01-05",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -127727,7 +127727,7 @@
       "amount": 950419,
       "display_amount": "\u00a3950,419",
       "date": "2023-01-05",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -127967,7 +127967,7 @@
       "amount": 9625148,
       "display_amount": "\u00a39,625,148",
       "date": "2023-01-01",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -127979,7 +127979,7 @@
       "amount": 1000,
       "display_amount": "\u00a31,000",
       "date": "2022-12-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -128003,7 +128003,7 @@
       "amount": 1000,
       "display_amount": "\u00a31,000",
       "date": "2022-12-23",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -128231,7 +128231,7 @@
       "amount": 740000,
       "display_amount": "\u00a3740,000",
       "date": "2022-12-22",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -128555,7 +128555,7 @@
       "amount": 460000,
       "display_amount": "\u00a3460,000",
       "date": "2022-12-21",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -128795,7 +128795,7 @@
       "amount": 820000,
       "display_amount": "\u00a3820,000",
       "date": "2022-12-20",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -129095,7 +129095,7 @@
       "amount": 257900,
       "display_amount": "\u00a3257,900",
       "date": "2022-12-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -130487,7 +130487,7 @@
       "amount": 250001,
       "display_amount": "\u00a3250,001",
       "date": "2022-12-12",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -130871,7 +130871,7 @@
       "amount": 450000,
       "display_amount": "\u00a3450,000",
       "date": "2022-12-09",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -131279,7 +131279,7 @@
       "amount": 310277,
       "display_amount": "\u00a3310,277",
       "date": "2022-12-06",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -131891,7 +131891,7 @@
       "amount": 850000,
       "display_amount": "\u00a3850,000",
       "date": "2022-12-01",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -131939,7 +131939,7 @@
       "amount": 3280655,
       "display_amount": "\u00a33,280,655",
       "date": "2022-11-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -132107,7 +132107,7 @@
       "amount": 550000,
       "display_amount": "\u00a3550,000",
       "date": "2022-11-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -132143,7 +132143,7 @@
       "amount": 885000,
       "display_amount": "\u00a3885,000",
       "date": "2022-11-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -132167,7 +132167,7 @@
       "amount": 1400000,
       "display_amount": "\u00a31,400,000",
       "date": "2022-11-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -132263,7 +132263,7 @@
       "amount": 987500,
       "display_amount": "\u00a3987,500",
       "date": "2022-11-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -132335,7 +132335,7 @@
       "amount": 22000,
       "display_amount": "\u00a322,000",
       "date": "2022-11-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -133127,7 +133127,7 @@
       "amount": 109533,
       "display_amount": "\u00a3109,533",
       "date": "2022-11-25",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -133187,7 +133187,7 @@
       "amount": 1425000,
       "display_amount": "\u00a31,425,000",
       "date": "2022-11-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -133955,7 +133955,7 @@
       "amount": 625000,
       "display_amount": "\u00a3625,000",
       "date": "2022-11-18",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -134243,7 +134243,7 @@
       "amount": 4724300,
       "display_amount": "\u00a34,724,300",
       "date": "2022-11-17",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -134399,7 +134399,7 @@
       "amount": 740000,
       "display_amount": "\u00a3740,000",
       "date": "2022-11-17",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -134459,7 +134459,7 @@
       "amount": 370000,
       "display_amount": "\u00a3370,000",
       "date": "2022-11-16",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": true
     },
     {
@@ -134579,7 +134579,7 @@
       "amount": 970000,
       "display_amount": "\u00a3970,000",
       "date": "2022-11-16",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": true
     },
     {
@@ -135107,7 +135107,7 @@
       "amount": 2000,
       "display_amount": "\u00a32,000",
       "date": "2022-11-11",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -135155,7 +135155,7 @@
       "amount": 675000,
       "display_amount": "\u00a3675,000",
       "date": "2022-11-11",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -135239,7 +135239,7 @@
       "amount": 115000,
       "display_amount": "\u00a3115,000",
       "date": "2022-11-10",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -135323,7 +135323,7 @@
       "amount": 8500000,
       "display_amount": "\u00a38,500,000",
       "date": "2022-11-09",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -135359,7 +135359,7 @@
       "amount": 191000,
       "display_amount": "\u00a3191,000",
       "date": "2022-11-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": true
     },
     {
@@ -135395,7 +135395,7 @@
       "amount": 895000,
       "display_amount": "\u00a3895,000",
       "date": "2022-11-08",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": true
     },
     {
@@ -135527,7 +135527,7 @@
       "amount": 857500,
       "display_amount": "\u00a3857,500",
       "date": "2022-11-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -135587,7 +135587,7 @@
       "amount": 465000,
       "display_amount": "\u00a3465,000",
       "date": "2022-11-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -135671,7 +135671,7 @@
       "amount": 3800000,
       "display_amount": "\u00a33,800,000",
       "date": "2022-11-04",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -136199,7 +136199,7 @@
       "amount": 2900000,
       "display_amount": "\u00a32,900,000",
       "date": "2022-11-01",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -136643,7 +136643,7 @@
       "amount": 911000,
       "display_amount": "\u00a3911,000",
       "date": "2022-10-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -136955,7 +136955,7 @@
       "amount": 1584031,
       "display_amount": "\u00a31,584,031",
       "date": "2022-10-28",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -137207,7 +137207,7 @@
       "amount": 17000,
       "display_amount": "\u00a317,000",
       "date": "2022-10-26",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -137447,7 +137447,7 @@
       "amount": 112500,
       "display_amount": "\u00a3112,500",
       "date": "2022-10-24",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -137627,7 +137627,7 @@
       "amount": 320000,
       "display_amount": "\u00a3320,000",
       "date": "2022-10-21",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -137879,7 +137879,7 @@
       "amount": 225000,
       "display_amount": "\u00a3225,000",
       "date": "2022-10-20",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -138155,7 +138155,7 @@
       "amount": 2500,
       "display_amount": "\u00a32,500",
       "date": "2022-10-19",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -138287,7 +138287,7 @@
       "amount": 341500,
       "display_amount": "\u00a3341,500",
       "date": "2022-10-17",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -138479,7 +138479,7 @@
       "amount": 150000,
       "display_amount": "\u00a3150,000",
       "date": "2022-10-14",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -138863,7 +138863,7 @@
       "amount": 585000,
       "display_amount": "\u00a3585,000",
       "date": "2022-10-13",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -139907,7 +139907,7 @@
       "amount": 292000,
       "display_amount": "\u00a3292,000",
       "date": "2022-10-03",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -139919,7 +139919,7 @@
       "amount": 377500,
       "display_amount": "\u00a3377,500",
       "date": "2022-10-03",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -139931,7 +139931,7 @@
       "amount": 2400000,
       "display_amount": "\u00a32,400,000",
       "date": "2022-10-03",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -140303,7 +140303,7 @@
       "amount": 320000,
       "display_amount": "\u00a3320,000",
       "date": "2022-09-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -140759,7 +140759,7 @@
       "amount": 520000,
       "display_amount": "\u00a3520,000",
       "date": "2022-09-30",
-      "property_type": "other",
+      "property_type": "Other",
       "new_build": false
     },
     {
@@ -140808,174 +140808,6 @@
       "display_amount": "\u00a3191,500",
       "date": "2022-09-30",
       "property_type": "Flat-maisonette",
-      "new_build": false
-    },
-    {
-      "paon": "2",
-      "saon": null,
-      "street": "WITHYBRIDGE GARDENS",
-      "town": "CHELTENHAM",
-      "postcode": "GL51 9TL",
-      "amount": 425000,
-      "display_amount": "\u00a3425,000",
-      "date": "2022-09-29",
-      "property_type": "Detached",
-      "new_build": false
-    },
-    {
-      "paon": "315",
-      "saon": null,
-      "street": "PRINCESS ELIZABETH WAY",
-      "town": "CHELTENHAM",
-      "postcode": "GL51 7PD",
-      "amount": 203000,
-      "display_amount": "\u00a3203,000",
-      "date": "2022-09-29",
-      "property_type": "Terraced",
-      "new_build": false
-    },
-    {
-      "paon": "1",
-      "saon": null,
-      "street": "HAYDEN LANE",
-      "town": "CHELTENHAM",
-      "postcode": "GL51 0SR",
-      "amount": 375000,
-      "display_amount": "\u00a3375,000",
-      "date": "2022-09-29",
-      "property_type": "Semi-detached",
-      "new_build": false
-    },
-    {
-      "paon": "1",
-      "saon": null,
-      "street": "MARSH CLOSE",
-      "town": "CHELTENHAM",
-      "postcode": "GL51 9LD",
-      "amount": 220000,
-      "display_amount": "\u00a3220,000",
-      "date": "2022-09-29",
-      "property_type": "Semi-detached",
-      "new_build": false
-    },
-    {
-      "paon": "STIRLING HOUSE",
-      "saon": "APARTMENT 13",
-      "street": "COLLEGE ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL53 7FH",
-      "amount": 200000,
-      "display_amount": "\u00a3200,000",
-      "date": "2022-09-29",
-      "property_type": "Flat-maisonette",
-      "new_build": true
-    },
-    {
-      "paon": "36",
-      "saon": null,
-      "street": "CHELTENHAM ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL54 5NF",
-      "amount": 435000,
-      "display_amount": "\u00a3435,000",
-      "date": "2022-09-29",
-      "property_type": "Terraced",
-      "new_build": false
-    },
-    {
-      "paon": "93",
-      "saon": null,
-      "street": "TOBYFIELD ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL52 8NZ",
-      "amount": 250000,
-      "display_amount": "\u00a3250,000",
-      "date": "2022-09-29",
-      "property_type": "Semi-detached",
-      "new_build": false
-    },
-    {
-      "paon": "3",
-      "saon": null,
-      "street": "GODWIN ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL54 5LA",
-      "amount": 375000,
-      "display_amount": "\u00a3375,000",
-      "date": "2022-09-29",
-      "property_type": "Detached",
-      "new_build": false
-    },
-    {
-      "paon": "2",
-      "saon": null,
-      "street": "BARN CLOSE",
-      "town": "CHELTENHAM",
-      "postcode": "GL54 5YT",
-      "amount": 510000,
-      "display_amount": "\u00a3510,000",
-      "date": "2022-09-29",
-      "property_type": "Detached",
-      "new_build": false
-    },
-    {
-      "paon": "DOUGLAS HOUSE",
-      "saon": null,
-      "street": "VILLAGE ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL51 0AB",
-      "amount": 7453200,
-      "display_amount": "\u00a37,453,200",
-      "date": "2022-09-29",
-      "property_type": "other",
-      "new_build": false
-    },
-    {
-      "paon": "19",
-      "saon": null,
-      "street": "LAURISTON PARK",
-      "town": "CHELTENHAM",
-      "postcode": "GL50 2QL",
-      "amount": 545000,
-      "display_amount": "\u00a3545,000",
-      "date": "2022-09-29",
-      "property_type": "Terraced",
-      "new_build": false
-    },
-    {
-      "paon": "56",
-      "saon": null,
-      "street": "STANWICK GARDENS",
-      "town": "CHELTENHAM",
-      "postcode": "GL51 9LF",
-      "amount": 280000,
-      "display_amount": "\u00a3280,000",
-      "date": "2022-09-29",
-      "property_type": "Semi-detached",
-      "new_build": false
-    },
-    {
-      "paon": "26",
-      "saon": "FLAT 6",
-      "street": "PRIORY STREET",
-      "town": "CHELTENHAM",
-      "postcode": "GL52 6DG",
-      "amount": 200000,
-      "display_amount": "\u00a3200,000",
-      "date": "2022-09-29",
-      "property_type": "Flat-maisonette",
-      "new_build": false
-    },
-    {
-      "paon": "48",
-      "saon": null,
-      "street": "MILTON ROAD",
-      "town": "CHELTENHAM",
-      "postcode": "GL51 7ES",
-      "amount": 375000,
-      "display_amount": "\u00a3375,000",
-      "date": "2022-09-29",
-      "property_type": "Terraced",
       "new_build": false
     }
   ]
