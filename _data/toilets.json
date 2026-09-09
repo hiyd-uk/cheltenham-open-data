@@ -57,7 +57,7 @@
     "notes": null,
     "active": true,
     "verified_at": null,
-    "updated_at": "2026-08-16T13:37:13.586Z"
+    "updated_at": "2026-09-08T15:02:05.827Z"
   },
   {
     "id": "e00043b4e16775e929ccf8d4",
@@ -265,7 +265,7 @@
     "notes": "Opening time: 7:30am (April-September) 8:00am (October-March)\nClosing time: 5:45pm (April-September) 3:00pm (October-March)",
     "active": true,
     "verified_at": null,
-    "updated_at": "2022-09-06T12:50:57.345Z"
+    "updated_at": "2026-09-08T15:01:20.127Z"
   },
   {
     "id": "09c1105c752e9c78f9624ddd",
@@ -609,7 +609,7 @@
   },
   {
     "id": "85a44bf2349fbf14e07bd522",
-    "name": "The Brewery Qaurter",
+    "name": "The Brewery Quarter",
     "latitude": 51.903020355,
     "longitude": -2.076593041,
     "maps_url": "https://www.google.com/maps/search/?api=1&query=51.903020355,-2.076593041",
@@ -620,7 +620,7 @@
     "women": true,
     "urinal_only": null,
     "radar_key": false,
-    "no_payment": false,
+    "no_payment": null,
     "payment_details": null,
     "opening_times": {
       "monday": "24 hours",
@@ -635,7 +635,7 @@
     "notes": null,
     "active": true,
     "verified_at": null,
-    "updated_at": "2017-08-24T20:44:47.005Z"
+    "updated_at": "2026-09-08T15:00:11.613Z"
   },
   {
     "id": "75e15fadb29beeb9f4ddc1be",
@@ -679,11 +679,11 @@
     "notes": "Toilet on upper floor next to escalators- only one toilet but open without need for purchase   ",
     "active": true,
     "verified_at": null,
-    "updated_at": "2023-04-21T09:11:44.535Z"
+    "updated_at": "2026-09-08T15:01:39.122Z"
   },
   {
     "id": "66bb8e46f06bfba91fdf25eb",
-    "name": "Wilson Art Gallery & Museuem",
+    "name": "Wilson Art Gallery & Museum",
     "latitude": 51.901858581,
     "longitude": -2.079629302,
     "maps_url": "https://www.google.com/maps/search/?api=1&query=51.901858581,-2.079629302",
@@ -709,6 +709,6 @@
     "notes": "Toilets upstairs, accessible lift. Cleaned Daily.",
     "active": true,
     "verified_at": null,
-    "updated_at": "2026-09-03T16:19:25.522Z"
+    "updated_at": "2026-09-08T14:59:42.054Z"
   }
 ]
